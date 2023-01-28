@@ -1,9 +1,2236 @@
 {
-  "name": "Cryptocurrency jobs",
-  "website": "https://cryptocurrencyjobs.co/web3/",
-  "properties": {
-    "entities": {
-      "jobs": []
-    }
+  "name": "Jobs3.io",
+  "website": "https://jobs3.io/jobs/",
+  "entities": {
+    "jobs": [
+      {
+        "company": {
+          "name": " Bitpack.me",
+          "slug": " Bitpack.meFrontend Engineer"
+        },
+        "title": "Frontend Engineer",
+        "date": "Published  3 days ago",
+        "compensation": [
+          "$30k",
+          "$39k"
+        ],
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Programmer",
+          "Web 3 Front-End Developer"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Uptrend Agency",
+          "slug": " Uptrend AgencyMetaverse Designer"
+        },
+        "title": "Metaverse Designer",
+        "date": "Published  4 days ago",
+        "compensation": [
+          "$20k",
+          "$29k"
+        ],
+        "logo": {},
+        "tags": [
+          "Metaverse"
+        ],
+        "applyLink": "https://angel.co/company/uptrendagency/jobs/2376417-metaverse-designer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Calystral Games GmbH",
+          "slug": " Calystral Games GmbHMid-Level Marketing Geek (*) 🧙"
+        },
+        "title": "Mid-Level Marketing Geek (*) 🧙",
+        "date": "Published  4 days ago",
+        "compensation": [
+          "$40k",
+          "$49k"
+        ],
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://calystral.factorialhr.com/apply/mid-level-marketing-geek-24717",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " eSkillz Games",
+          "slug": " eSkillz GamesUnity Developer Intern"
+        },
+        "title": "Unity Developer Intern",
+        "date": "Published  4 days ago",
+        "logo": {},
+        "tags": [
+          "Game Developer"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Etherscan",
+          "slug": " EtherscanFrontend/UI Web Developer"
+        },
+        "title": "Frontend/UI Web Developer",
+        "date": "Published  5 days ago",
+        "logo": {},
+        "tags": [
+          "UI/UX Designer"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Parity Technologies",
+          "slug": " Parity TechnologiesSenior Product Marketing Manager – Solutions"
+        },
+        "title": "Senior Product Marketing Manager – Solutions",
+        "date": "Published  3 hours ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/parity/jobs/5469049003",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Protocol Labs",
+          "slug": " Protocol LabsTechnical Program Manager"
+        },
+        "title": "Technical Program Manager",
+        "date": "Published  8 hours ago",
+        "logo": {},
+        "tags": [
+          "Management"
+        ],
+        "applyLink": "https://boards.greenhouse.io/protocollabs/jobs/4783033004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn StudiosLevel Designer"
+        },
+        "title": "Level Designer",
+        "date": "Published  9 hours ago",
+        "logo": {},
+        "tags": [
+          "Design",
+          "Game Designer"
+        ],
+        "applyLink": "https://www.hidnvision.com/copy-of-unreal-developer-game",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn Studios3D Modeller"
+        },
+        "title": "3D Modeller",
+        "date": "Published  9 hours ago",
+        "logo": {},
+        "tags": [
+          "3D Artist",
+          "Artist"
+        ],
+        "applyLink": "https://www.hidnvision.com/copy-of-lead-level-designer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Zilliqa",
+          "slug": " ZilliqaPR Manager"
+        },
+        "title": "PR Manager",
+        "date": "Published  10 hours ago",
+        "logo": {},
+        "tags": [
+          "PR Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/zilliqa/jobs/4749516004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn StudiosUX Dev, Game"
+        },
+        "title": "UX Dev, Game",
+        "date": "Published  12 hours ago",
+        "logo": {},
+        "tags": [
+          "Design",
+          "Engineering",
+          "UI/UX Designer"
+        ],
+        "applyLink": "https://www.hidnvision.com/copy-of-web-developer-job-listing",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn StudiosEnvironment Concept Artist"
+        },
+        "title": "Environment Concept Artist",
+        "date": "Published  23 hours ago",
+        "logo": {},
+        "tags": [
+          "Artist",
+          "Concept Artist"
+        ],
+        "applyLink": "https://www.hidnvision.com/copy-of-vehcile-concept-artist",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn StudiosVehicle Concept Artist"
+        },
+        "title": "Vehicle Concept Artist",
+        "date": "Published  1 day ago",
+        "logo": {},
+        "tags": [
+          "Artist",
+          "Concept Artist"
+        ],
+        "applyLink": "https://www.hidnvision.com/copy-of-3d-modeler",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ramp Network",
+          "slug": " Ramp NetworkStaff Frontend Engineer (Platform team), Typescript/React"
+        },
+        "title": "Staff Frontend Engineer (Platform team), Typescript/React",
+        "date": "Published  1 day ago",
+        "logo": {},
+        "tags": [
+          "Frontend Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/careers.ramp.network/9d7f8d12-520d-47ea-8805-65262c2834b6",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ramp Network",
+          "slug": " Ramp NetworkLicensing and Expansion Manager"
+        },
+        "title": "Licensing and Expansion Manager",
+        "date": "Published  1 day ago",
+        "logo": {},
+        "tags": [
+          "Compliance",
+          "Management"
+        ],
+        "applyLink": "https://jobs.lever.co/careers.ramp.network/ac093299-cf97-4fab-8c28-c4db424293ae",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ramp Network",
+          "slug": " Ramp NetworkHead of Marketing"
+        },
+        "title": "Head of Marketing",
+        "date": "Published  1 day ago",
+        "logo": {},
+        "tags": [
+          "Head of Marketing"
+        ],
+        "applyLink": "https://jobs.lever.co/careers.ramp.network/d0a975e8-f0a5-4807-87a6-9c38f058c772",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ledger",
+          "slug": " LedgerLead UX Researcher"
+        },
+        "title": "Lead UX Researcher",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Design"
+        ],
+        "applyLink": "https://jobs.lever.co/ledger/56cb9ba7-e16f-45f1-ab9f-78436bae4e6b/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ledger",
+          "slug": " LedgerSenior Hardware Product Marketing Manager"
+        },
+        "title": "Senior Hardware Product Marketing Manager",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Marketing",
+          "Product"
+        ],
+        "applyLink": "https://jobs.lever.co/ledger/815beaf6-550a-481b-9166-2bf179898257/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceInstitutional Sales Manager – Asia"
+        },
+        "title": "Institutional Sales Manager – Asia",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Sales"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/e460e13b-76d0-45b0-a19d-e86a495f8d9a/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceSenior Web Front-End Security Audit Engineer"
+        },
+        "title": "Senior Web Front-End Security Audit Engineer",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Security"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/45c3a1eb-261f-41b1-83d6-c5dfc310128a",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskGTM Strategic Finance Manager"
+        },
+        "title": "GTM Strategic Finance Manager",
+        "date": "Published  2 days ago",
+        "compensation": [
+          "$100k",
+          "$149k"
+        ],
+        "logo": {},
+        "tags": [
+          "Finance"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2459427-gtm-strategic-finance-manager",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenSea",
+          "slug": " OpenSeaData Scientist Lead, Trust and Safety"
+        },
+        "title": "Data Scientist Lead, Trust and Safety",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://jobs.lever.co/OpenSea/89df507f-dba0-430b-b613-c00d96c8bde5/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonDirector of Platform Business Development"
+        },
+        "title": "Director of Platform Business Development",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Business Development"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/696a6ee0-70a6-483d-bbf4-10e9eb5b6d41/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Energi Core Limited",
+          "slug": " Energi Core LimitedFrontend Web Developer"
+        },
+        "title": "Frontend Web Developer",
+        "date": "Published  2 days ago",
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Web 3 Front-End Developer"
+        ],
+        "applyLink": "https://boards.greenhouse.io/energicorelimited/jobs/4678379004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Nansen",
+          "slug": " NansenVP of Product"
+        },
+        "title": "VP of Product",
+        "date": "Published  3 days ago",
+        "logo": {},
+        "tags": [
+          "Product"
+        ],
+        "applyLink": "https://boards.greenhouse.io/nansen/jobs/4691299004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gemini",
+          "slug": " GeminiSenior Application Support Engineer"
+        },
+        "title": "Senior Application Support Engineer",
+        "date": "Published  3 days ago",
+        "logo": {},
+        "tags": [
+          "Technical Support"
+        ],
+        "applyLink": "https://www.gemini.com/jobs/senior-application-support-engineer?gh_jid=4547706",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gemini",
+          "slug": " GeminiSoftware Engineer, Backend"
+        },
+        "title": "Software Engineer, Backend",
+        "date": "Published  3 days ago",
+        "compensation": [
+          "$100k",
+          "$149k"
+        ],
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://www.gemini.com/jobs/software-engineer-backend?gh_jid=4657824",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gemini",
+          "slug": " GeminiEngineering Manager"
+        },
+        "title": "Engineering Manager",
+        "date": "Published  3 days ago",
+        "compensation": [
+          "$200k",
+          "$249k"
+        ],
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Management"
+        ],
+        "applyLink": "https://www.gemini.com/jobs/engineering-manager?gh_jid=4438784",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gemini",
+          "slug": " GeminiSenior Product Designer"
+        },
+        "title": "Senior Product Designer",
+        "date": "Published  3 days ago",
+        "compensation": [
+          "$150k",
+          "$199k"
+        ],
+        "logo": {},
+        "tags": [
+          "Product Design"
+        ],
+        "applyLink": "https://www.gemini.com/jobs/senior-product-designer?gh_jid=4651759",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Uptrend Agency",
+          "slug": " Uptrend AgencyBusiness Development Manager"
+        },
+        "title": "Business Development Manager",
+        "date": "Published  4 days ago",
+        "compensation": [
+          "$30k",
+          "$39k"
+        ],
+        "logo": {},
+        "tags": [
+          "Business Development Manager"
+        ],
+        "applyLink": "https://angel.co/company/uptrendagency/jobs/2376402-business-development-manager",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Uptrend Agency",
+          "slug": " Uptrend AgencyGrowth Strategist"
+        },
+        "title": "Growth Strategist",
+        "date": "Published  4 days ago",
+        "compensation": [
+          "$30k",
+          "$39k"
+        ],
+        "logo": {},
+        "tags": [
+          "Digital Marketing",
+          "Marketing"
+        ],
+        "applyLink": "https://angel.co/company/uptrendagency/jobs/2376414-growth-strategist",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Uptrend Agency",
+          "slug": " Uptrend AgencyCommunity Manager"
+        },
+        "title": "Community Manager",
+        "date": "Published  4 days ago",
+        "compensation": [
+          "$20k",
+          "$29k"
+        ],
+        "logo": {},
+        "tags": [
+          "Community Manager"
+        ],
+        "applyLink": "https://angel.co/company/uptrendagency/jobs/2376399-community-manager",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Manifold",
+          "slug": " ManifoldSoftware Engineer"
+        },
+        "title": "Software Engineer",
+        "date": "Published  4 days ago",
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://angel.co/company/manifoldxyz/jobs/1619564-software-engineer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Manifold",
+          "slug": " ManifoldEngineering Leadership"
+        },
+        "title": "Engineering Leadership",
+        "date": "Published  4 days ago",
+        "logo": {},
+        "tags": [
+          "Developer"
+        ],
+        "applyLink": "https://angel.co/company/manifoldxyz/jobs/2082377-engineering-leadershiphttps://angel.co/company/manifoldxyz/jobs/2082377-engineering-leadership",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Manifold",
+          "slug": " ManifoldHead of Engineering"
+        },
+        "title": "Head of Engineering",
+        "date": "Published  4 days ago",
+        "logo": {},
+        "tags": [
+          "Developer"
+        ],
+        "applyLink": "https://angel.co/company/manifoldxyz/jobs/2397210-head-of-engineering",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Etherscan",
+          "slug": " Etherscan.NET Web Developer (Full Stack)"
+        },
+        "title": ".NET Web Developer (Full Stack)",
+        "date": "Published  5 days ago",
+        "logo": {},
+        "tags": [
+          "Full Stack Developer"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Machinations",
+          "slug": " MachinationsGlobal Sales Manager"
+        },
+        "title": "Global Sales Manager",
+        "date": "Published  5 days ago",
+        "logo": {},
+        "tags": [
+          "Sales"
+        ],
+        "applyLink": "https://machinations.io/careers/global-sales-manager/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Etherscan",
+          "slug": " EtherscanContent Writer"
+        },
+        "title": "Content Writer",
+        "date": "Published  5 days ago",
+        "logo": {},
+        "tags": [
+          "Content Writer"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Machinations",
+          "slug": " MachinationsFull Stack Developer"
+        },
+        "title": "Full Stack Developer",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Full Stack Developer"
+        ],
+        "applyLink": "https://machinations.io/careers/fullstack-developer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Machinations",
+          "slug": " MachinationsUI/UX Designer"
+        },
+        "title": "UI/UX Designer",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "UI Designer"
+        ],
+        "applyLink": "https://machinations.io/careers/ui-ux/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonLead Security Auditor (Solidity)"
+        },
+        "title": "Lead Security Auditor (Solidity)",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Security"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/5a2714f2-05ce-4cf2-a172-9aec0ead8cf8",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Machinations",
+          "slug": " MachinationsJunior Game Designer"
+        },
+        "title": "Junior Game Designer",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Game Designer"
+        ],
+        "applyLink": "https://machinations.io/careers/junior-game-designer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Machinations",
+          "slug": " MachinationsGame Designer"
+        },
+        "title": "Game Designer",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Game Designer"
+        ],
+        "applyLink": "https://machinations.io/careers/game-designer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonHubSpot Administrator – Polygon Studios"
+        },
+        "title": "HubSpot Administrator – Polygon Studios",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/b8b990fa-cab6-477c-a8d1-3dbc2af8f692",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonSoftware Engineer – Polygon Avail Integrations"
+        },
+        "title": "Software Engineer – Polygon Avail Integrations",
+        "date": "Published  6 days ago",
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/49a0ef37-d201-4a0c-9291-296d0ee8c318",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Crossmint",
+          "slug": " CrossmintFrontend Software Engineer (Mid | Payments)"
+        },
+        "title": "Frontend Software Engineer (Mid | Payments)",
+        "date": "Published  7 days ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Frontend Developer"
+        ],
+        "applyLink": "https://crossmint.notion.site/Frontend-Software-Engineer-Mid-Payments-75ca8f2a1a184bb9bede34c2aa6a330e",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Crossmint",
+          "slug": " CrossmintSoftware Engineer (Senior | APIs)"
+        },
+        "title": "Software Engineer (Senior | APIs)",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Frontend Developer"
+        ],
+        "applyLink": "https://crossmint.notion.site/Software-Engineer-Senior-APIs-d838c0a5025d4cdb8205bc68523aea8e",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " TrustSwap",
+          "slug": " TrustSwapSenior Copywriter"
+        },
+        "title": "Senior Copywriter",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Content Writer"
+        ],
+        "applyLink": "https://trustswap.com/job-content-writer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " TrustSwap",
+          "slug": " TrustSwapLead Media Designer"
+        },
+        "title": "Lead Media Designer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Design"
+        ],
+        "applyLink": "https://trustswap.com/lead-media-designer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " TrustSwap",
+          "slug": " TrustSwapProduct Designer"
+        },
+        "title": "Product Designer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Design",
+          "Product"
+        ],
+        "applyLink": "https://trustswap.com/product-designer/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " NEAR",
+          "slug": " NEARFull-Stack Engineer, Discovery"
+        },
+        "title": "Full-Stack Engineer, Discovery",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Full Stack Developer"
+        ],
+        "applyLink": "https://boards.greenhouse.io/near/jobs/6577428002",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskFullstack Engineer"
+        },
+        "title": "Fullstack Engineer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2040499-fullstack-engineer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsFrontend Engineer Intern (Paid)"
+        },
+        "title": "Frontend Engineer Intern (Paid)",
+        "date": "Published  1 week ago",
+        "compensation": [
+          "$10k",
+          "$19k"
+        ],
+        "logo": {},
+        "tags": [
+          "Frontend Developer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2187903-frontend-engineer-intern?utm_source=Zilliqa+job+board&utm_medium=getro.com&gh_src=Zilliqa+job+board",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskFrontend Engineer"
+        },
+        "title": "Frontend Engineer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Frontend Developer"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2040497-frontend-engineer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsUI/UX Design Intern (Paid)"
+        },
+        "title": "UI/UX Design Intern (Paid)",
+        "date": "Published  1 week ago",
+        "compensation": [
+          "$10k",
+          "$19k"
+        ],
+        "logo": {},
+        "tags": [
+          "UI/UX Designer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2330544-ui-ux-design-intern?utm_source=Zilliqa+job+board&utm_medium=getro.com&gh_src=Zilliqa+job+board",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " eSkillz Games",
+          "slug": " eSkillz GamesWeb3 Marketing Intern"
+        },
+        "title": "Web3 Marketing Intern",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Digital Marketing",
+          "Marketing"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Zilliqa",
+          "slug": " ZilliqaDigital Designer"
+        },
+        "title": "Digital Designer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Graphic Designer"
+        ],
+        "applyLink": "https://boards.greenhouse.io/zilliqa/jobs/4771010004?utm_source=Zilliqa+job+board&utm_medium=getro.com&gh_src=Zilliqa+job+board",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsGraphic Design Intern (Paid)"
+        },
+        "title": "Graphic Design Intern (Paid)",
+        "date": "Published  1 week ago",
+        "compensation": [
+          "$10k",
+          "$19k"
+        ],
+        "logo": {},
+        "tags": [
+          "Graphic Designer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2356263-graphic-design-intern?utm_source=Zilliqa+job+board&utm_medium=getro.com&gh_src=Zilliqa+job+board",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskBackend Engineer"
+        },
+        "title": "Backend Engineer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2547368-backend-engineer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Chainstack",
+          "slug": " ChainstackSenior Software Engineer, Blockchain Integrations"
+        },
+        "title": "Senior Software Engineer, Blockchain Integrations",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://jobs.lever.co/chainlink/475db2e1-32dc-4c17-bc09-f9421fa633ac",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Cash App",
+          "slug": " Cash AppRetail Operations Manager, Lifestyle"
+        },
+        "title": "Retail Operations Manager, Lifestyle",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Management",
+          "Operations"
+        ],
+        "applyLink": "https://www.linkedin.com/jobs/view/retail-operations-manager-lifestyle-at-cash-app-3443957693",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Chainalysis",
+          "slug": " ChainalysisSr. Partner Marketing Manager"
+        },
+        "title": "Sr. Partner Marketing Manager",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Management",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/chainalysis/jobs/6575865002",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Moonpay",
+          "slug": " MoonpayFraud Analyst (Poland, Croatia)"
+        },
+        "title": "Fraud Analyst (Poland, Croatia)",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Analyst"
+        ],
+        "applyLink": "https://boards.greenhouse.io/moonpay/jobs/5469894003",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinFlip",
+          "slug": " CoinFlipJunior Graphic Designer"
+        },
+        "title": "Junior Graphic Designer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Design",
+          "Graphic Designer"
+        ],
+        "applyLink": "https://jobs.lever.co/CoinFlip/c402648d-ef51-44e5-be91-43fd747c71d7",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ripple",
+          "slug": " RippleUX Research Intern (Summer 2023)"
+        },
+        "title": "UX Research Intern (Summer 2023)",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Entry Level",
+          "UI/UX Designer",
+          "UI/UX Developer"
+        ],
+        "applyLink": "https://ripple.com/careers/all-jobs/job/4811750/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Hidn Studios",
+          "slug": " Hidn StudiosFull stack web developer"
+        },
+        "title": "Full stack web developer",
+        "date": "Published  1 week ago",
+        "logo": {},
+        "tags": [
+          "Developer"
+        ],
+        "applyLink": "https://www.hidnvision.com/web-developer-job-listing",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ripple",
+          "slug": " RippleProduct Management Intern (Summer 2023)"
+        },
+        "title": "Product Management Intern (Summer 2023)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Entry Level",
+          "Management",
+          "Product"
+        ],
+        "applyLink": "https://ripple.com/careers/all-jobs/job/4806948",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ripple",
+          "slug": " RippleBlockchain Engineer Intern, CBDC (Summer 2023)"
+        },
+        "title": "Blockchain Engineer Intern, CBDC (Summer 2023)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Entry Level"
+        ],
+        "applyLink": "https://ripple.com/careers/all-jobs/job/4805046",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ripple",
+          "slug": " RippleData Engineer Intern (Summer 2023)"
+        },
+        "title": "Data Engineer Intern (Summer 2023)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Entry Level"
+        ],
+        "applyLink": "https://ripple.com/careers/all-jobs/job/4805391",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Parity Technologies",
+          "slug": " Parity TechnologiesRust Developer – Tools"
+        },
+        "title": "Rust Developer – Tools",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Rust Developer"
+        ],
+        "applyLink": "https://boards.greenhouse.io/parity/jobs/5478040003",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Parity Technologies",
+          "slug": " Parity TechnologiesSenior Team Assistant in Org Strategy"
+        },
+        "title": "Senior Team Assistant in Org Strategy",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Operations"
+        ],
+        "applyLink": "https://boards.greenhouse.io/parity/jobs/5466809003",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoLead UI/UX Designer (L4)"
+        },
+        "title": "Lead UI/UX Designer (L4)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Design",
+          "UI Designer",
+          "UI/UX Designer",
+          "UX Specialist"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/b5384342-f457-420d-8aaf-e06a4da434a3",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceWeb Front-end Developers (NodeJS)"
+        },
+        "title": "Web Front-end Developers (NodeJS)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Node Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/fa75d2d1-7a9e-487a-a7ba-8ccaabf405af/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Status",
+          "slug": " StatusDevOps Engineer (Infrastructure)"
+        },
+        "title": "DevOps Engineer (Infrastructure)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://boards.greenhouse.io/embed/job_app?token=4808848",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceProject Management Intern"
+        },
+        "title": "Project Management Intern",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Entry Level"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/8c6de5c5-f52e-4d95-aab7-86a5986d406a",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceVice President, Token Investment – Binance Labs"
+        },
+        "title": "Vice President, Token Investment – Binance Labs",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Director"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/efd6fb16-42f2-4ecf-8c88-c8fa9b44a4d4/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceMacro Research Analyst"
+        },
+        "title": "Macro Research Analyst",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Analyst"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/644d798c-6568-4d3a-97d8-a50f2e421796",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskThreat Intelligence Analyst"
+        },
+        "title": "Threat Intelligence Analyst",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Analyst"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2540258-threat-intelligence-analyst",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceSenior Java Engineer – KYC"
+        },
+        "title": "Senior Java Engineer – KYC",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering",
+          "Java Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/ecd695c5-b9fa-45b3-b448-db03a264b820",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Nansen",
+          "slug": " NansenSocial Media Manager"
+        },
+        "title": "Social Media Manager",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Marketing",
+          "Social Media Manager"
+        ],
+        "applyLink": "https://boards.greenhouse.io/nansen/jobs/4774272004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Alchemy",
+          "slug": " AlchemyGrowth Engineer"
+        },
+        "title": "Growth Engineer",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Brand and Growth Manager",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/alchemy/jobs/4181718005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ava Labs",
+          "slug": " Ava LabsSenior Software Engineer, Bridge"
+        },
+        "title": "Senior Software Engineer, Bridge",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://boards.greenhouse.io/avalabs/jobs/4771997004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Mighty Bear Games",
+          "slug": " Mighty Bear GamesSenior Game Designer"
+        },
+        "title": "Senior Game Designer",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Game Developer"
+        ],
+        "applyLink": "https://jobs.gohire.io/mighty-bear-games-tqlek6ys/senior-game-designer-82526/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Mighty Bear Games",
+          "slug": " Mighty Bear GamesPartnerships Manager"
+        },
+        "title": "Partnerships Manager",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development Manager"
+        ],
+        "applyLink": "https://jobs.gohire.io/mighty-bear-games-tqlek6ys/partnerships-manager-115136/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Mighty Bear Games",
+          "slug": " Mighty Bear GamesIntermediate UI/UX Designer"
+        },
+        "title": "Intermediate UI/UX Designer",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "UI/UX Designer",
+          "UI/UX Developer"
+        ],
+        "applyLink": "https://jobs.gohire.io/mighty-bear-games-tqlek6ys/intermediate-ui-ux-designer-games-development-111639/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Relax Gaming Ltd",
+          "slug": " Relax Gaming Ltd2D Artist – Novi Sad or Belgrade"
+        },
+        "title": "2D Artist – Novi Sad or Belgrade",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Artist"
+        ],
+        "applyLink": "https://relaxgaming.bamboohr.com/jobs/view.php?id=48",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Relax Gaming Ltd",
+          "slug": " Relax Gaming LtdGame Developer – Novi Sad or Belgrade"
+        },
+        "title": "Game Developer – Novi Sad or Belgrade",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Game Developer"
+        ],
+        "applyLink": "https://relaxgaming.bamboohr.com/jobs/view.php?id=129",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Starlight",
+          "slug": " StarlightSenior Software Engineer"
+        },
+        "title": "Senior Software Engineer",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://jobs.ashbyhq.com/starlight/da831bed-fad4-45c8-84d6-8a6823efca76/application",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Blockchain Founders Group",
+          "slug": " Blockchain Founders GroupLooking for Managing Director/CEO/CTO"
+        },
+        "title": "Looking for Managing Director/CEO/CTO",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development",
+          "Director",
+          "Management",
+          "Marketing",
+          "Sales",
+          "Technologies"
+        ],
+        "applyLink": "https://blockchain-founders.io/bfg-superstars",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenOcean",
+          "slug": " OpenOceanBusiness Development Manager"
+        },
+        "title": "Business Development Manager",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development Advisor"
+        ],
+        "applyLink": "javascript:void(0);",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoMarket Research (Intern)"
+        },
+        "title": "Market Research (Intern)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Researcher"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/2ff461b7-17d7-4919-9882-67c9bab26437",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoSoftware Engineer – Web / Mobile (Intern)"
+        },
+        "title": "Software Engineer – Web / Mobile (Intern)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/d43bb5b1-beeb-41e4-9d95-66edae7d10f4",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoUI/UX Designer (Intern)"
+        },
+        "title": "UI/UX Designer (Intern)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "UI/UX Designer"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/f3478c36-86d6-453e-afc1-433e04b8e884",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoSocial Media Marketing (Intern)"
+        },
+        "title": "Social Media Marketing (Intern)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/01e76ea7-7f07-4e2e-ae04-89afd780dfc3",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinGecko",
+          "slug": " CoinGeckoContent Marketer (Intern)"
+        },
+        "title": "Content Marketer (Intern)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://jobs.lever.co/coingecko/7c3e1cf3-8724-4166-a989-23c03d1401aa",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gala Games",
+          "slug": " Gala GamesContract Social Media Manager (Music and Film)"
+        },
+        "title": "Contract Social Media Manager (Music and Film)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Social Media Manager"
+        ],
+        "applyLink": "https://app.gala.games/careers/job-listings?gh_jid=4087946005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gala Games",
+          "slug": " Gala GamesSenior Technical Artist (character rigger)"
+        },
+        "title": "Senior Technical Artist (character rigger)",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Artist"
+        ],
+        "applyLink": "https://app.gala.games/careers/job-listings?gh_jid=4180918005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gala Games",
+          "slug": " Gala GamesSoftware Engineer"
+        },
+        "title": "Software Engineer",
+        "date": "Published  2 weeks ago",
+        "logo": {},
+        "tags": [
+          "Software Developer"
+        ],
+        "applyLink": "https://app.gala.games/careers/job-listings?gh_jid=4178861005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Gala Games",
+          "slug": " Gala GamesDirector of Marketing (Games)"
+        },
+        "title": "Director of Marketing (Games)",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          ""
+        ],
+        "applyLink": "https://app.gala.games/careers/job-listings?gh_jid=4009353005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenSea",
+          "slug": " OpenSeaSoftware Engineer, Backend"
+        },
+        "title": "Software Engineer, Backend",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$150k",
+          "$199k"
+        ],
+        "logo": {},
+        "tags": [
+          "Backend Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/OpenSea/9396d2e4-252a-4237-96a1-2411caae4ccc",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenSea",
+          "slug": " OpenSeaSoftware Engineer, Full-stack"
+        },
+        "title": "Software Engineer, Full-stack",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$150k",
+          "$199k"
+        ],
+        "logo": {},
+        "tags": [
+          "Full Stack Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/OpenSea/c36317b5-d7b8-44b4-9b2e-589ee240767f",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenSea",
+          "slug": " OpenSeaBusiness Development Manager, Gaming"
+        },
+        "title": "Business Development Manager, Gaming",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$150k",
+          "$199k"
+        ],
+        "logo": {},
+        "tags": [
+          "Business Development Manager"
+        ],
+        "applyLink": "https://jobs.lever.co/OpenSea/c7f687ac-72fe-49cd-8fb3-dfff2930c490",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " OpenSea",
+          "slug": " OpenSeaCommunications Lead"
+        },
+        "title": "Communications Lead",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$200k",
+          "$249k"
+        ],
+        "logo": {},
+        "tags": [
+          "Communication"
+        ],
+        "applyLink": "https://jobs.lever.co/OpenSea/ddb8fce6-582a-4479-8106-e560b3b14008",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonSenior Golang Engineer"
+        },
+        "title": "Senior Golang Engineer",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Golang Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/83db5725-8123-47d9-9db9-41f231e05914",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonBusiness Development Lead – DeFi"
+        },
+        "title": "Business Development Lead – DeFi",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development Manager"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/1c2bf336-990d-4517-91f8-b3577621b82e",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonBlockchain Engineer"
+        },
+        "title": "Blockchain Engineer",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Blockchain Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/45e5ab97-a9c0-46e8-987a-eb1b2027f470",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " The Sandbox Game",
+          "slug": " The Sandbox GameUNITY DEVELOPER – Europe"
+        },
+        "title": "UNITY DEVELOPER – Europe",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Unity Developer"
+        ],
+        "applyLink": "https://careers.sandbox.game/?pagename=home&comeet_cat=europe&comeet_pos=3E.D2C&comeet_all=all&rd",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " The Sandbox Game",
+          "slug": " The Sandbox GamePR MANAGER – Paris"
+        },
+        "title": "PR MANAGER – Paris",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "PR Marketing"
+        ],
+        "applyLink": "https://careers.sandbox.game/?pagename=home&comeet_cat=paris-france&comeet_pos=C2.535&comeet_all=all&rd",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " The Sandbox Game",
+          "slug": " The Sandbox GameSENIOR COMMUNITY MODERATOR – Paris"
+        },
+        "title": "SENIOR COMMUNITY MODERATOR – Paris",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Community Manager"
+        ],
+        "applyLink": "https://careers.sandbox.game/?pagename=home&comeet_cat=paris-france&comeet_pos=C2.536&comeet_all=all&rd",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsBackend Engineer Intern (Paid)"
+        },
+        "title": "Backend Engineer Intern (Paid)",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$10k",
+          "$19k"
+        ],
+        "logo": {},
+        "tags": [
+          "Backend Developer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2187909-backend-engineer-intern",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " The Sandbox Game",
+          "slug": " The Sandbox GameSEO SPECIALIST – Uruguay"
+        },
+        "title": "SEO SPECIALIST – Uruguay",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "SEO Marketing"
+        ],
+        "applyLink": "https://careers.sandbox.game/?pagename=home&comeet_cat=uruguay&comeet_pos=58.53D&comeet_all=all&rd",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsGraphic Design Intern (Paid)"
+        },
+        "title": "Graphic Design Intern (Paid)",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$10k",
+          "$19k"
+        ],
+        "logo": {},
+        "tags": [
+          "Graphic Designer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2356263-graphic-design-intern",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsBlockchain & Smart Contract Engineer"
+        },
+        "title": "Blockchain & Smart Contract Engineer",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$100k",
+          "$149k"
+        ],
+        "logo": {},
+        "tags": [
+          "Smart Contract Developer"
+        ],
+        "applyLink": "https://form.typeform.com/to/Ogt3k8oC?typeform-source=angel.co",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsGraphic Designer"
+        },
+        "title": "Graphic Designer",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$70k",
+          "$79k"
+        ],
+        "logo": {},
+        "tags": [
+          "Graphic Designer"
+        ],
+        "applyLink": "https://angel.co/company/switcheo-labs/jobs/2356254-graphic-designer",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Switcheo Labs",
+          "slug": " Switcheo LabsFull Stack Engineer"
+        },
+        "title": "Full Stack Engineer",
+        "date": "Published  3 weeks ago",
+        "compensation": [
+          "$100k",
+          "$149k"
+        ],
+        "logo": {},
+        "tags": [
+          "Full Stack Developer"
+        ],
+        "applyLink": "https://form.typeform.com/to/Ogt3k8oC?typeform-source=angel.co",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ninjas in Pyjamas",
+          "slug": " Ninjas in PyjamasOffice Manager and Event Coordinator"
+        },
+        "title": "Office Manager and Event Coordinator",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "eSports"
+        ],
+        "applyLink": "https://ninjasinpyjamas.recruitee.com/o/office-manager-and-event-coordinator",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ninjas in Pyjamas",
+          "slug": " Ninjas in PyjamasCreative Project Lead"
+        },
+        "title": "Creative Project Lead",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Creative Producer"
+        ],
+        "applyLink": "https://ninjasinpyjamas.recruitee.com/o/creative-project-lead",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ninjas in Pyjamas",
+          "slug": " Ninjas in PyjamasFan Engagement & Community Manager"
+        },
+        "title": "Fan Engagement & Community Manager",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Community Manager"
+        ],
+        "applyLink": "https://ninjasinpyjamas.recruitee.com/o/fan-engagement-community-manager",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Zilliqa",
+          "slug": " ZilliqaPR Manager at Zilliqa"
+        },
+        "title": "PR Manager at Zilliqa",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "PR Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/zilliqa/jobs/4749516004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Zilliqa",
+          "slug": " ZilliqaMarket Research Data Analyst at Zilliqa"
+        },
+        "title": "Market Research Data Analyst at Zilliqa",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Researcher"
+        ],
+        "applyLink": "https://boards.greenhouse.io/zilliqa/jobs/4749490004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Alchemy",
+          "slug": " AlchemyContent Marketer"
+        },
+        "title": "Content Marketer",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Digital Marketing",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/alchemy/jobs/4026575005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Alchemy",
+          "slug": " AlchemySEO"
+        },
+        "title": "SEO",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Digital Marketing",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/alchemy/jobs/4033858005",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskDirector of Global Events"
+        },
+        "title": "Director of Global Events",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Director"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2478735-director-of-global-events",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Metamask",
+          "slug": " MetamaskSenior Software Engineer (LavaMoat/Security Lab)"
+        },
+        "title": "Senior Software Engineer (LavaMoat/Security Lab)",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://angel.co/company/metamask/jobs/2530807-senior-software-engineer-lavamoat-security-lab",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ledger",
+          "slug": " LedgerHR operations & Payroll Specialist"
+        },
+        "title": "HR operations & Payroll Specialist",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "HR",
+          "Operations"
+        ],
+        "applyLink": "https://jobs.lever.co/ledger/098c4c0b-5115-4631-9170-19e60decb094/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ava Labs",
+          "slug": " Ava LabsSenior Manager, Growth Marketing (NFTs)"
+        },
+        "title": "Senior Manager, Growth Marketing (NFTs)",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Brand and Growth Manager",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/avalabs/jobs/4763636004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ava Labs",
+          "slug": " Ava LabsDirector, Growth Marketing (NFTs)"
+        },
+        "title": "Director, Growth Marketing (NFTs)",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Brand and Growth Manager",
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/avalabs/jobs/4763635004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Certik",
+          "slug": " CertikBusiness Development Associate (San Francisco Bay Area – Silicon Valley)"
+        },
+        "title": "Business Development Associate (San Francisco Bay Area – Silicon Valley)",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development"
+        ],
+        "applyLink": "https://jobs.lever.co/certik/8a3505fe-36a1-48a5-b3f7-b021da58582c/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " CoinFlip",
+          "slug": " CoinFlipCrypto Experience Center Manager and Community Engagement Coordinator"
+        },
+        "title": "Crypto Experience Center Manager and Community Engagement Coordinator",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Communication",
+          "Community Management"
+        ],
+        "applyLink": "https://jobs.lever.co/CoinFlip/14d1c28a-61be-4153-ade9-df4d02e89f9e/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonNFT Community Business Development Lead"
+        },
+        "title": "NFT Community Business Development Lead",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/94c965c6-04cf-4548-be1f-0196eb799e9e/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " NEAR",
+          "slug": " NEARSenior Product Manager, Identity, Trust, & Safety"
+        },
+        "title": "Senior Product Manager, Identity, Trust, & Safety",
+        "date": "Published  3 weeks ago",
+        "logo": {},
+        "tags": [
+          "Management",
+          "Product"
+        ],
+        "applyLink": "https://boards.greenhouse.io/near/jobs/6555087002",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Chainstack",
+          "slug": " ChainstackDeveloper Relations Manager"
+        },
+        "title": "Developer Relations Manager",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Operations"
+        ],
+        "applyLink": "https://chainstack.bamboohr.com/jobs/view.php?id=75",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonNFT Community Business Development Lead"
+        },
+        "title": "NFT Community Business Development Lead",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Business Development"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/94c965c6-04cf-4548-be1f-0196eb799e9e/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceSenior Front-end Developer (Futures)"
+        },
+        "title": "Senior Front-end Developer (Futures)",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Developer"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/79459bc1-b2c0-4c0c-ad3b-f7da803eb94a/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Energi Core Limited",
+          "slug": " Energi Core LimitedJunior Marketing Manager (part-time, remote)"
+        },
+        "title": "Junior Marketing Manager (part-time, remote)",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://boards.greenhouse.io/energicorelimited/jobs/4764767004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceQA Engineer – Fiat"
+        },
+        "title": "QA Engineer – Fiat",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/60b83727-8716-4dde-89ba-fbebef452821/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " QuickNode",
+          "slug": " QuickNodeAssociate Counsel"
+        },
+        "title": "Associate Counsel",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Operations"
+        ],
+        "applyLink": "https://boards.greenhouse.io/quiknodeinc/jobs/4006570006",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " QuickNode",
+          "slug": " QuickNodeSoftware Engineer, Backend (Build)"
+        },
+        "title": "Software Engineer, Backend (Build)",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://boards.greenhouse.io/quiknodeinc/jobs/4004557006",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Xoilium Ltd.",
+          "slug": " Xoilium Ltd.Game Economy Manager"
+        },
+        "title": "Game Economy Manager",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Developer",
+          "Game Developer"
+        ],
+        "applyLink": "https://rebelbots.com/careers/2",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Xoilium Ltd.",
+          "slug": " Xoilium Ltd.Business Data Analyst"
+        },
+        "title": "Business Data Analyst",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Analyst"
+        ],
+        "applyLink": "https://rebelbots.com/careers/1",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Illuvium",
+          "slug": " IlluviumSenior C# Engineer"
+        },
+        "title": "Senior C# Engineer",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://illuvium.io/jobs/4104502004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Xoilium Ltd.",
+          "slug": " Xoilium Ltd.Influencer Marketing Manager"
+        },
+        "title": "Influencer Marketing Manager",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Marketing"
+        ],
+        "applyLink": "https://rebelbots.com/careers/5",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Illuvium",
+          "slug": " IlluviumSenior Blockchain Developer"
+        },
+        "title": "Senior Blockchain Developer",
+        "date": "Published  4 weeks ago",
+        "logo": {},
+        "tags": [
+          "Blockchain Developer",
+          "Developer"
+        ],
+        "applyLink": "https://illuvium.io/jobs/4149112004",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ledger",
+          "slug": " LedgerCommunity Manager Intern – Web3 & Blockchain"
+        },
+        "title": "Community Manager Intern – Web3 & Blockchain",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "Community Management",
+          "Entry Level"
+        ],
+        "applyLink": "https://jobs.lever.co/ledger/14bd5fd9-906d-41db-b227-e04cb5607762/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Polygon",
+          "slug": " PolygonSenior Compiler Engineer"
+        },
+        "title": "Senior Compiler Engineer",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "Engineering"
+        ],
+        "applyLink": "https://jobs.lever.co/Polygon/34f322ae-31fb-47bd-a78d-a87c7e3d1327/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Ledger",
+          "slug": " LedgerNews Editor Intern – Web3 & Blockchain"
+        },
+        "title": "News Editor Intern – Web3 & Blockchain",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "Entry Level"
+        ],
+        "applyLink": "https://jobs.lever.co/ledger/cb3eb954-2b91-435c-a9b2-89c16a2d0009/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceHR Operations Specialist (North America)"
+        },
+        "title": "HR Operations Specialist (North America)",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "HR"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/54956379-eeb5-43c5-bae2-e1438282427a/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Immutable",
+          "slug": " ImmutableDirector of Engineering"
+        },
+        "title": "Director of Engineering",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "Director",
+          "Engineering",
+          "Technical Director"
+        ],
+        "applyLink": "https://jobs.lever.co/immutable/770ded88-ec69-4220-a01d-d8af361e0dee/",
+        "remote": false
+      },
+      {
+        "company": {
+          "name": " Binance",
+          "slug": " BinanceSanctions Analyst – Escalations"
+        },
+        "title": "Sanctions Analyst – Escalations",
+        "date": "Published  1 month ago",
+        "logo": {},
+        "tags": [
+          "Analyst"
+        ],
+        "applyLink": "https://jobs.lever.co/binance/6678b846-d776-45d6-b93a-e13e6f1e6cdc",
+        "remote": false
+      }
+    ]
   }
 }

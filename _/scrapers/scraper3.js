@@ -66,7 +66,7 @@ const fetchSource = () => {
             job.compensation.push(_salarys[0]+'k')
             job.compensation.push('$'+_salarys[1])
           }
-          job.company.name = $(trs[i]).find('.job-company-name').eq(0).text();
+          job.company.name = $(trs[i]).find('.job-company-name').eq(0).text().split('@')[1];
           job.company.slug = job.company.name + '' + job.title;
           job.logo = {};
           // let link = $(trs[i]).find('.job-company-name a').eq(0).attr('href');

@@ -4,6 +4,7 @@
   "description": "web scraper for sirikanya",
   "main": "index.js",
   "scripts": {
+    "post" : "babel-node post.js",
     "start": "babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

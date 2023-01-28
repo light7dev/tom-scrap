@@ -71,17 +71,30 @@ const fetchSource = () => {
 
          let entities = [];
 
-         for(var i=0; i<title.length ; i++ )   
-       {  entities.push({
-          "title" : title[i],
-          "name(company)"  : name[i],
-          "compensation" : compensation[i],
-          "location" : location[i],
-          "tags" : tags[i],
-          "postDate" : post_date[i],
-          "description" : description[i]
-         })}
-         
+        for(var i=0; i<title.length ; i++ )   
+        {  
+          entities.push({
+            title : title[i],
+            jobType: '',
+            role:'',
+            applyLink: '',
+            location:'',
+            sticky: false,
+            highlight: false,
+            remote:false,
+            company  : {
+              name: name[i],
+              slug: '',
+              logo:{}
+            },
+            compensation : compensation[i],
+            location : location[i],
+            tags : tags[i],
+            postDate : post_date[i],
+            description : description[i]
+          })
+        }
+        
         resolve(entities)
     } catch (error) {
      reject(error)
@@ -97,7 +110,9 @@ const processFetch = () => {
         type: 'Scrape',
         name: scrapInfo.name,
         website: scrapInfo.website,
-        entities: data,
+        entities: {
+          jobs: data
+        }
       };
       fs.writeFile('./results/1.json', JSON.stringify(resData, null, 2), 'utf8', () => {
         console.log('Saved json file')

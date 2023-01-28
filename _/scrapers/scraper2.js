@@ -75,6 +75,7 @@ const fetchSource = () => {
           job.applyLink = link;
           job.description = '';
           console.log(job)
+          entities.jobs.push(job)
         }
         // browser.close()
         resolve(entities)

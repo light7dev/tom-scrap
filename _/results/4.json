@@ -1,9 +1,7450 @@
 {
   "name": "Web3 Careers",
   "website": "https://www.w3.careers/",
-  "properties": {
-    "entities": {
-      "jobs": []
-    }
+  "entities": {
+    "jobs": [
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OpenEden Pte Ltd"
+        },
+        "role": "Remote",
+        "location": "Worldwide",
+        "date": "1 day",
+        "remote": true,
+        "title": "Software Engineer",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer-e8bc787e-6fb3-408f-85c1-a37a56b6284d",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blockchain Founders Group"
+        },
+        "role": "Remote",
+        "location": "Worldwide",
+        "date": "16 days",
+        "remote": true,
+        "title": "Looking for Managing Director/CEO/CTO",
+        "applyLink": "https://www.w3.careers//jobs/looking-for-managing-director-ceo-cto",
+        "tags": [
+          "Blockchain",
+          "Web3",
+          "crypto",
+          "Management"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "illumiShare SRG"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "TikTok Content Creator",
+        "applyLink": "https://www.w3.careers//jobs/tiktok-content-creator",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Chainalysis"
+        },
+        "role": "",
+        "location": "NY New York City",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Director, Chainalysis Academy",
+        "applyLink": "https://www.w3.careers//jobs/director-chainalysis-academy",
+        "tags": [
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Nike"
+        },
+        "role": "",
+        "location": "CA Los Angeles US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Content Lead",
+        "applyLink": "https://www.w3.careers//jobs/content-lead",
+        "tags": [
+          "NFT",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Larson Maddox"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Head of Operations",
+        "applyLink": "https://www.w3.careers//jobs/head-of-operations-831fce73-1cc5-45e9-99a2-1299adcb5685",
+        "tags": [
+          "Executive",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Copiosa"
+        },
+        "role": "",
+        "location": "Remote",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Outgoing Community Manager Wanted",
+        "applyLink": "https://www.w3.careers//jobs/outgoing-community-manager-wanted",
+        "tags": [
+          "Non-tech",
+          "Remote",
+          "Community-manager",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Stellar Development Foundation"
+        },
+        "role": "",
+        "location": "ON Toronto",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Partnerships Manager",
+        "applyLink": "https://www.w3.careers//jobs/partnerships-manager",
+        "tags": [
+          "Non-tech",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BAKEUP Beauty"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Social Media Marketing Specialist",
+        "applyLink": "https://www.w3.careers//jobs/social-media-marketing-specialist",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Whatnot"
+        },
+        "role": "",
+        "location": "Remote or San Francisco",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "NFT GTM Manager",
+        "applyLink": "https://www.w3.careers//jobs/nft-gtm-manager",
+        "tags": [
+          "NFT",
+          "Product-manager",
+          "Marketing",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Napster"
+        },
+        "role": "",
+        "location": "United States New York US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Technical Product Manager - Web3",
+        "applyLink": "https://www.w3.careers//jobs/technical-product-manager-web3",
+        "tags": [
+          "NFT",
+          "Node",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Whatnot"
+        },
+        "role": "",
+        "location": "Remote or San Francisco",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Senior Full-Stack Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-full-stack-engineer-a40dc11d-1b9b-43ec-bdac-80bde5a004b3",
+        "tags": [
+          "JavaScript",
+          "Blockchain",
+          "Solidity",
+          "Python"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Kava Labs Inc"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "FP&amp;A Manager (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/fp-amp-a-manager-remote",
+        "tags": [
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Entoro"
+        },
+        "role": "",
+        "location": "TX Houston US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Operations Associate",
+        "applyLink": "https://www.w3.careers//jobs/operations-associate",
+        "tags": [
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "coto"
+        },
+        "role": "",
+        "location": "China",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Customer Life Cycle (CLM) Lead",
+        "applyLink": "https://www.w3.careers//jobs/customer-life-cycle-clm-lead",
+        "tags": [
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Tron"
+        },
+        "role": "",
+        "location": "CA San Francisco",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Communications Manager",
+        "applyLink": "https://www.w3.careers//jobs/communications-manager",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "California San Francisco United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "WomenHack NYC",
+        "applyLink": "https://www.w3.careers//jobs/womenhack-nyc",
+        "tags": [
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "California San Francisco United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Head of Data",
+        "applyLink": "https://www.w3.careers//jobs/head-of-data",
+        "tags": [
+          "Ethereum",
+          "Executive",
+          "Data-science"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Global Public Relations Lead (Corporate)",
+        "applyLink": "https://www.w3.careers//jobs/global-public-relations-lead-corporate",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Marketing",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "Madhya Pradesh Bhopal India",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Market Research Lead",
+        "applyLink": "https://www.w3.careers//jobs/market-research-lead",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Marketing",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "Canada",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Senior Growth Marketing Manager (Dev Tools)",
+        "applyLink": "https://www.w3.careers//jobs/senior-growth-marketing-manager-dev-tools",
+        "tags": [
+          "JavaScript",
+          "Ethereum",
+          "Dev",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "Madhya Pradesh Bhopal India",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Social Media Director",
+        "applyLink": "https://www.w3.careers//jobs/social-media-director",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Executive",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Chainlink Labs"
+        },
+        "role": "",
+        "location": "California San Francisco United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Technical Program Manager, Release Engineering",
+        "applyLink": "https://www.w3.careers//jobs/technical-program-manager-release-engineering",
+        "tags": [
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Paxos"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Head of People Operations",
+        "applyLink": "https://www.w3.careers//jobs/head-of-people-operations",
+        "tags": [
+          "Executive",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "HoneyBricks"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Marketing Manager - Content &amp; SEO",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager-content-amp-seo",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Seo"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Credix"
+        },
+        "role": "",
+        "location": "Flanders Antwerp Belgium",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Operations Analyst",
+        "applyLink": "https://www.w3.careers//jobs/operations-analyst",
+        "tags": [
+          "Analyst",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Atomic"
+        },
+        "role": "",
+        "location": "Arizona Phoenix United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Product-Manager-In-Residence, Web3",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-in-residence-web3",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Prometheum"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Director of Business Development",
+        "applyLink": "https://www.w3.careers//jobs/director-of-business-development",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Casa Inc."
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Social Media Manager",
+        "applyLink": "https://www.w3.careers//jobs/social-media-manager-8d0c6fb4-9f59-4542-ba48-a529fe72dbdb",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "prePO"
+        },
+        "role": "",
+        "location": "Central Singapore Remote Singapore",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Operations Manager",
+        "applyLink": "https://www.w3.careers//jobs/operations-manager",
+        "tags": [
+          "Remote",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Zero Hash"
+        },
+        "role": "",
+        "location": "Sao Paulo BR",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto Settlements and Operations (Brasil)",
+        "applyLink": "https://www.w3.careers//jobs/crypto-settlements-and-operations-brasil",
+        "tags": [
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "NFTConsole.ai"
+        },
+        "role": "",
+        "location": "Karnataka Bengaluru India",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Lead User Experience Designer",
+        "applyLink": "https://www.w3.careers//jobs/lead-user-experience-designer",
+        "tags": [
+          "Non-tech",
+          "Lead",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "web3vc.fund"
+        },
+        "role": "",
+        "location": "California San Francisco United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "CosmosSDK Blockchain Developer",
+        "applyLink": "https://www.w3.careers//jobs/cosmossdk-blockchain-developer",
+        "tags": [
+          "Rust",
+          "Solidity",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Atato"
+        },
+        "role": "",
+        "location": "Singapore  Singapore",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Junior DevSecOps Engineer (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/junior-devsecops-engineer-remote",
+        "tags": [
+          "Ethereum",
+          "Dev",
+          "Remote",
+          "Entry-level"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "AMUZED"
+        },
+        "role": "",
+        "location": "Berlin Germany",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Entrepreneur in Residence - Blockchain/Crypto (m/f/d)",
+        "applyLink": "https://www.w3.careers//jobs/entrepreneur-in-residence-blockchain-crypto-m-f-d",
+        "tags": [
+          "NFT",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Glip"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Business Development Lead",
+        "applyLink": "https://www.w3.careers//jobs/business-development-lead",
+        "tags": [
+          "Non-tech",
+          "Lead",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "United Kingdom",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Ecosystem Engineer Lead",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-ecosystem-engineer-lead",
+        "tags": [
+          "Ethereum",
+          "Dev",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Singapore",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "HR Business Partner - Content",
+        "applyLink": "https://www.w3.careers//jobs/hr-business-partner-content",
+        "tags": [
+          "Non-tech",
+          "Hr"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Coinstore.com"
+        },
+        "role": "",
+        "location": "Singapore SG",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "NFT BD Specialist",
+        "applyLink": "https://www.w3.careers//jobs/nft-bd-specialist",
+        "tags": [
+          "NFT"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "California San Francisco United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Web 3/ Crypto Technical Analyst /Associate",
+        "applyLink": "https://www.w3.careers//jobs/web-3-crypto-technical-analyst-associate",
+        "tags": [
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "Canada",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/ Web 3 Lead EVM Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web-3-lead-evm-engineer",
+        "tags": [
+          "Solidity",
+          "Dev",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "England United Kingdom",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Software Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-software-engineer",
+        "tags": [
+          "JavaScript",
+          "Solidity",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "Canada",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Senior Frontend Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-senior-frontend-engineer",
+        "tags": [
+          "JavaScript",
+          "Solidity",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Head of Distribution",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-head-of-distribution",
+        "tags": [
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "Berlin Germany",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Data Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-data-engineer",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Partner Strategy and Operations Coordinator",
+        "applyLink": "https://www.w3.careers//jobs/partner-strategy-and-operations-coordinator",
+        "tags": [
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blockchain 121"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Chief Operating Officer - Major Venture Backed Blockchain Protocol",
+        "applyLink": "https://www.w3.careers//jobs/chief-operating-officer-major-venture-backed-blockchain-protocol",
+        "tags": [
+          "Executive",
+          "Vc"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Artie"
+        },
+        "role": "",
+        "location": "CA Los Angeles US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Art Director",
+        "applyLink": "https://www.w3.careers//jobs/art-director",
+        "tags": [
+          "NFT",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "Canada",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/web3 Senior Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-senior-smart-contract-engineer",
+        "tags": [
+          "Solidity",
+          "Ethereum",
+          "Dev",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OKX"
+        },
+        "role": "",
+        "location": "HK Hong Kong",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "(Senior) Product Manager — Institutions",
+        "applyLink": "https://www.w3.careers//jobs/senior-product-manager-institutions",
+        "tags": [
+          "Product-manager",
+          "Non-tech",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TDA Creative"
+        },
+        "role": "",
+        "location": "New York City Metropolitan Area US",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Vice President",
+        "applyLink": "https://www.w3.careers//jobs/vice-president",
+        "tags": [
+          "NFT",
+          "Node",
+          "Java"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ultra Evolution"
+        },
+        "role": "",
+        "location": "Texas Houston United States",
+        "date": "about 2 months",
+        "remote": false,
+        "title": "Crypto/Web3 Frontend Engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-web3-frontend-engineer",
+        "tags": [
+          "React",
+          "Dev",
+          "Front-end"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "FL Miami US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Strategic Partner Manager",
+        "applyLink": "https://www.w3.careers//jobs/senior-strategic-partner-manager",
+        "tags": [
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Rook"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Head of Growth (Fully Remote)",
+        "applyLink": "https://www.w3.careers//jobs/head-of-growth-fully-remote",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Executive",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Afterpay"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Afterpay Sales",
+        "applyLink": "https://www.w3.careers//jobs/afterpay-sales",
+        "tags": [
+          "Non-tech",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Applied Blockchain"
+        },
+        "role": "",
+        "location": "United Kingdom",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Software Engineer (C++)",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer-c",
+        "tags": [
+          "React",
+          "Node",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Singapore",
+        "date": "2 months",
+        "remote": false,
+        "title": "System Administration Specialist",
+        "applyLink": "https://www.w3.careers//jobs/system-administration-specialist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Hong Kong",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Growth Manager - Custody",
+        "applyLink": "https://www.w3.careers//jobs/senior-growth-manager-custody",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Composable Finance"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Head of Asia",
+        "applyLink": "https://www.w3.careers//jobs/head-of-asia",
+        "tags": [
+          "Executive",
+          "Ai"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Switzerland",
+        "date": "2 months",
+        "remote": false,
+        "title": "Business Development Manager - Custody",
+        "applyLink": "https://www.w3.careers//jobs/business-development-manager-custody",
+        "tags": [
+          "Non-tech",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Global",
+        "date": "2 months",
+        "remote": false,
+        "title": "Growth Operations Intern (BNB Chain)",
+        "applyLink": "https://www.w3.careers//jobs/growth-operations-intern-bnb-chain",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Remote",
+          "Intern"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Bahrain",
+        "date": "2 months",
+        "remote": false,
+        "title": "Compliance & Risk Officer",
+        "applyLink": "https://www.w3.careers//jobs/compliance-risk-officer",
+        "tags": [
+          "Compliance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Argentina",
+        "date": "2 months",
+        "remote": false,
+        "title": "Compliance Manager/MLRO - Argentina",
+        "applyLink": "https://www.w3.careers//jobs/compliance-manager-mlro-argentina",
+        "tags": [
+          "Compliance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Tribal"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Crypto Research Analyst",
+        "applyLink": "https://www.w3.careers//jobs/crypto-research-analyst",
+        "tags": [
+          "crypto",
+          "Analyst",
+          "Research"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Canada",
+        "date": "2 months",
+        "remote": false,
+        "title": "Web3 Sourcer",
+        "applyLink": "https://www.w3.careers//jobs/web3-sourcer",
+        "tags": [
+          "Non-tech",
+          "Recruiter"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Bahrain",
+        "date": "2 months",
+        "remote": false,
+        "title": "Clearing Analyst",
+        "applyLink": "https://www.w3.careers//jobs/clearing-analyst",
+        "tags": [
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "RECUR"
+        },
+        "role": "",
+        "location": "MA Boston",
+        "date": "2 months",
+        "remote": false,
+        "title": "Data Engineer II",
+        "applyLink": "https://www.w3.careers//jobs/data-engineer-ii",
+        "tags": [
+          "Dev",
+          "Data-science"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Paraform"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Solidity DeFi Engineer",
+        "applyLink": "https://www.w3.careers//jobs/solidity-defi-engineer",
+        "tags": [
+          "Solidity",
+          "DeFi",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OKX"
+        },
+        "role": "",
+        "location": "00 Manila",
+        "date": "2 months",
+        "remote": false,
+        "title": "Affiliate Business Development Manager, Philippines",
+        "applyLink": "https://www.w3.careers//jobs/affiliate-business-development-manager-philippines",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Afterpay"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Affiliate Sales",
+        "applyLink": "https://www.w3.careers//jobs/affiliate-sales",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "The Sourcery"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Integrations Engineer",
+        "applyLink": "https://www.w3.careers//jobs/integrations-engineer",
+        "tags": [
+          "Solidity",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Uniswap Labs"
+        },
+        "role": "",
+        "location": "NY New York City",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Frontend Engineer, NFT",
+        "applyLink": "https://www.w3.careers//jobs/senior-frontend-engineer-nft",
+        "tags": [
+          "React",
+          "NFT",
+          "Dev",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Aldrin"
+        },
+        "role": "",
+        "location": "Remote",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior React Native Mobile Developer Web3 (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/senior-react-native-mobile-developer-web3-remote",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Dev",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "LATOKEN"
+        },
+        "role": "",
+        "location": "United States Arizona US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Lead Growth Manager / Sales Manager",
+        "applyLink": "https://www.w3.careers//jobs/lead-growth-manager-sales-manager",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Lead",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Parity Technologies"
+        },
+        "role": "",
+        "location": "BE Berlin",
+        "date": "2 months",
+        "remote": false,
+        "title": "Org Strategy Post - Parity Relationship Manager",
+        "applyLink": "https://www.w3.careers//jobs/org-strategy-post-parity-relationship-manager",
+        "tags": [
+          "Solidity",
+          "NFT",
+          "Ethereum",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Bahrain",
+        "date": "2 months",
+        "remote": false,
+        "title": "CISO & TechOps Officer",
+        "applyLink": "https://www.w3.careers//jobs/ciso-techops-officer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Global",
+        "date": "2 months",
+        "remote": false,
+        "title": "Principal Engineer - Backend (Java)",
+        "applyLink": "https://www.w3.careers//jobs/principal-engineer-backend-java",
+        "tags": [
+          "Java",
+          "Dev",
+          "Executive",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "UAE",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Product Manager/Lead - Custody",
+        "applyLink": "https://www.w3.careers//jobs/senior-product-manager-lead-custody",
+        "tags": [
+          "Product-manager",
+          "Non-tech",
+          "Lead",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Uniswap Labs"
+        },
+        "role": "",
+        "location": "NY New York US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-smart-contract-engineer",
+        "tags": [
+          "React",
+          "Solidity",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Elevance Health"
+        },
+        "role": "",
+        "location": "GA Atlanta US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Blockchain Research Graduate Level - Summer 2023",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-research-graduate-level-summer-2023",
+        "tags": [
+          "JavaScript",
+          "Blockchain",
+          "React",
+          "Solidity"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "UAE",
+        "date": "2 months",
+        "remote": false,
+        "title": "Javascript Fullstack Engineer",
+        "applyLink": "https://www.w3.careers//jobs/javascript-fullstack-engineer-0ab3f499-ad38-46a8-8204-9c389d921c35",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Ruby",
+          "Java"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Global",
+        "date": "2 months",
+        "remote": false,
+        "title": "Social Media & Community Intern - Binance Accelerator Programme",
+        "applyLink": "https://www.w3.careers//jobs/social-media-community-intern-binance-accelerator-programme",
+        "tags": [
+          "Non-tech",
+          "Remote",
+          "Intern",
+          "Entry-level"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "DoraHacks"
+        },
+        "role": "",
+        "location": "United States California US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Investment Analyst Intern",
+        "applyLink": "https://www.w3.careers//jobs/investment-analyst-intern",
+        "tags": [
+          "Finance",
+          "Intern",
+          "Entry-level",
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OpenSea"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "2 months",
+        "remote": false,
+        "title": "On-Chain Data Analyst",
+        "applyLink": "https://www.w3.careers//jobs/on-chain-data-analyst",
+        "tags": [
+          "NFT",
+          "Analyst",
+          "Data-science"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Protocol Labs"
+        },
+        "role": "",
+        "location": "United States US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Executive Assistant, Outercore",
+        "applyLink": "https://www.w3.careers//jobs/executive-assistant-outercore",
+        "tags": [
+          "React",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Romania",
+        "date": "2 months",
+        "remote": false,
+        "title": "JavaScript Fullstack Engineer",
+        "applyLink": "https://www.w3.careers//jobs/javascript-fullstack-engineer",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Ruby",
+          "Java"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Global",
+        "date": "2 months",
+        "remote": false,
+        "title": "Market Surveillance Global Lead",
+        "applyLink": "https://www.w3.careers//jobs/market-surveillance-global-lead",
+        "tags": [
+          "Lead",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Argentina",
+        "date": "2 months",
+        "remote": false,
+        "title": "Technical Support Specialist (API support)",
+        "applyLink": "https://www.w3.careers//jobs/technical-support-specialist-api-support",
+        "tags": [
+          "Customer-support",
+          "Api"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Treasury Analyst",
+        "applyLink": "https://www.w3.careers//jobs/senior-treasury-analyst",
+        "tags": [
+          "Senior",
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Harmony"
+        },
+        "role": "",
+        "location": "Palo Alto",
+        "date": "2 months",
+        "remote": false,
+        "title": "Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-f07719f3-fdbf-46e8-b094-96b3417ff30e",
+        "tags": [
+          "Ethereum",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CleAth"
+        },
+        "role": "",
+        "location": "India",
+        "date": "2 months",
+        "remote": false,
+        "title": "Full Stack Blockchain Developer",
+        "applyLink": "https://www.w3.careers//jobs/full-stack-blockchain-developer",
+        "tags": [
+          "Blockchain",
+          "Dev",
+          "Full-stack"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Crypto.com"
+        },
+        "role": "",
+        "location": "Hong Kong",
+        "date": "2 months",
+        "remote": false,
+        "title": "Automation QA Engineer",
+        "applyLink": "https://www.w3.careers//jobs/automation-qa-engineer",
+        "tags": [
+          "JavaScript",
+          "Dev",
+          "Quality-assurance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CALDANCE"
+        },
+        "role": "",
+        "location": "San Francisco Bay Area US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Crypto FA role/ Fundraise—Web3.0 Project",
+        "applyLink": "https://www.w3.careers//jobs/crypto-fa-role-fundraise-web3-0-project",
+        "tags": [
+          "crypto"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "0x Labs"
+        },
+        "role": "",
+        "location": "CA San Francisco US",
+        "date": "2 months",
+        "remote": false,
+        "title": "Senior Account Manager - 0x API, web3",
+        "applyLink": "https://www.w3.careers//jobs/senior-account-manager-0x-api-web3",
+        "tags": [
+          "NFT",
+          "Ethereum",
+          "Non-tech",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "",
+        "location": "UNITED STATES - Remote",
+        "date": "2 months",
+        "remote": false,
+        "title": "CRM Associate",
+        "applyLink": "https://www.w3.careers//jobs/crm-associate",
+        "tags": [
+          "Ethereum",
+          "Remote",
+          "Crm"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "",
+        "location": "UNITED STATES - Remote",
+        "date": "2 months",
+        "remote": false,
+        "title": "Technical Product Marketing Manager, Decentralized Networks",
+        "applyLink": "https://www.w3.careers//jobs/technical-product-marketing-manager-decentralized-networks",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Marketing",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "0x Labs"
+        },
+        "role": "",
+        "location": "CA San Francisco",
+        "date": "2 months",
+        "remote": false,
+        "title": "Software Engineer - Full-Stack, Matcha",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer-full-stack-matcha",
+        "tags": [
+          "JavaScript",
+          "React",
+          "NFT",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Anchorage Digital"
+        },
+        "role": "",
+        "location": "United States",
+        "date": "2 months",
+        "remote": false,
+        "title": "Product Design Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-design-manager",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CANDY"
+        },
+        "role": "",
+        "location": "NY New York City",
+        "date": "2 months",
+        "remote": false,
+        "title": "Staff Backend Blockchain Engineer",
+        "applyLink": "https://www.w3.careers//jobs/staff-backend-blockchain-engineer",
+        "tags": [
+          "Blockchain",
+          "Solidity",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Rysk Finance"
+        },
+        "role": "",
+        "location": "Anywhere",
+        "date": "2 months",
+        "remote": false,
+        "title": "DeFi Derivatives Quant (Crypto Trading Desk)",
+        "applyLink": "https://www.w3.careers//jobs/defi-derivatives-quant-crypto-trading-desk",
+        "tags": [
+          "DeFi",
+          "crypto",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "Global",
+        "date": "2 months",
+        "remote": false,
+        "title": "Brand & Content Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/brand-content-marketing-manager",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "United States",
+        "date": "2 months",
+        "remote": false,
+        "title": "Visual Designer, Marketing",
+        "applyLink": "https://www.w3.careers//jobs/visual-designer-marketing",
+        "tags": [
+          "Ethereum",
+          "Non-tech",
+          "Marketing",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "",
+        "location": "C",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Strategy Manager - Market Intelligence and Strategic Insights",
+        "applyLink": "https://www.w3.careers//jobs/product-strategy-manager-market-intelligence-and-strategic-insights",
+        "tags": [
+          "Ethereum",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Archblock"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Blockchain Engineer (Team Lead)",
+        "applyLink": "https://www.w3.careers//jobs/senior-blockchain-engineer-team-lead",
+        "tags": [
+          "Blockchain",
+          "React",
+          "Node",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Immutable"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Market Intelligence Lead",
+        "applyLink": "https://www.w3.careers//jobs/market-intelligence-lead",
+        "tags": [
+          "NFT",
+          "Ethereum",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Trust Machines"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Smart Contract Developer",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-developer",
+        "tags": [
+          "Rust",
+          "Solidity",
+          "Dev",
+          "Smart-contract"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "PLBY Group, Inc."
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Data Analyst, Strategic Operations",
+        "applyLink": "https://www.w3.careers//jobs/data-analyst-strategic-operations",
+        "tags": [
+          "NFT",
+          "Analyst",
+          "Data-science",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Rodo"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of Business Development, Blockchain",
+        "applyLink": "https://www.w3.careers//jobs/head-of-business-development-blockchain",
+        "tags": [
+          "Blockchain",
+          "Non-tech",
+          "Executive",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Marketing Manager - Web3",
+        "applyLink": "https://www.w3.careers//jobs/content-marketing-manager-web3",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Kava Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Developer Relations Engineer (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/developer-relations-engineer-remote",
+        "tags": [
+          "JavaScript",
+          "Ethereum",
+          "Dev",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Manager, RippleX Marketing",
+        "applyLink": "https://www.w3.careers//jobs/senior-manager-ripplex-marketing-2d656394-2e28-4b2e-9b62-28fb50ab0d7a",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Mastercard"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Associate Analyst, Attribution-5",
+        "applyLink": "https://www.w3.careers//jobs/associate-analyst-attribution-5",
+        "tags": [
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Orbis"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Brand Designer | Crypto",
+        "applyLink": "https://www.w3.careers//jobs/brand-designer-crypto",
+        "tags": [
+          "crypto",
+          "Non-tech",
+          "Marketing",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Rarify"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Web3 Head of Marketing",
+        "applyLink": "https://www.w3.careers//jobs/web3-head-of-marketing",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Kraken Digital Asset Exchange"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Sales Engineer - Staked",
+        "applyLink": "https://www.w3.careers//jobs/sales-engineer-staked",
+        "tags": [
+          "Dev",
+          "Non-tech",
+          "Remote",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Earning.Farm"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Ethereum Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/ethereum-smart-contract-engineer",
+        "tags": [
+          "Dev",
+          "Smart-contract"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BlockchainStaffingNinja"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Community Manager",
+        "applyLink": "https://www.w3.careers//jobs/community-manager",
+        "tags": [
+          "Non-tech",
+          "Community-manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Genies, Inc."
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Asset TD",
+        "applyLink": "https://www.w3.careers//jobs/asset-td",
+        "tags": [
+          "NFT"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Compliance Officer - Control",
+        "applyLink": "https://www.w3.careers//jobs/compliance-officer-control",
+        "tags": [
+          "Compliance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "The Block"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director - Product, Infrastructure, and Systems",
+        "applyLink": "https://www.w3.careers//jobs/director-product-infrastructure-and-systems",
+        "tags": [
+          "JavaScript",
+          "Executive",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Status"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Protocol Engineer - TypeScript",
+        "applyLink": "https://www.w3.careers//jobs/protocol-engineer-typescript",
+        "tags": [
+          "JavaScript",
+          "NFT",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Status"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Developer Relations Engineer (Waku protocol)",
+        "applyLink": "https://www.w3.careers//jobs/developer-relations-engineer-waku-protocol",
+        "tags": [
+          "React",
+          "NFT",
+          "Golang",
+          "Node"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Stacks Foundation"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Security Engineer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-security-engineer-fa9e28a1-1579-4967-8a1e-1743cc2af3e6",
+        "tags": [
+          "Blockchain",
+          "Dev",
+          "Remote",
+          "Security"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bitcoin Depot"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Compliance Outreach Analyst",
+        "applyLink": "https://www.w3.careers//jobs/compliance-outreach-analyst",
+        "tags": [
+          "Ethereum",
+          "Analyst",
+          "Compliance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Parallel Consulting"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of DeFi Product",
+        "applyLink": "https://www.w3.careers//jobs/head-of-defi-product",
+        "tags": [
+          "DeFi",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Hex Trust"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "VP/Associate - Institutional Sales &amp; Business Development (South America)",
+        "applyLink": "https://www.w3.careers//jobs/vp-associate-institutional-sales-amp-business-development-south-america",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Paraform"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solidity Engineer",
+        "applyLink": "https://www.w3.careers//jobs/solidity-engineer-49151121-23ff-43fd-a5e0-c04d8aeb96fd",
+        "tags": [
+          "Solidity",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Sopheon Corporation"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Software Engineer",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer",
+        "tags": [
+          "JavaScript",
+          "React",
+          "SQL",
+          "CSS"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "RareSkills"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solidity Instructor",
+        "applyLink": "https://www.w3.careers//jobs/solidity-instructor",
+        "tags": [
+          "Solidity",
+          "NFT",
+          "Solana",
+          "Teaching"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Coins.ph"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "SOC Engineer (SG)",
+        "applyLink": "https://www.w3.careers//jobs/soc-engineer-sg",
+        "tags": [
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Halborn"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Sales Director; Web3",
+        "applyLink": "https://www.w3.careers//jobs/sales-director-web3",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Hike"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director Of Marketing ( Full time, Remote )",
+        "applyLink": "https://www.w3.careers//jobs/director-of-marketing-full-time-remote",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Executive",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "dYdX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Chief of Staff, Engineering",
+        "applyLink": "https://www.w3.careers//jobs/chief-of-staff-engineering",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Recruiter"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Manager, Digital Asset Security",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-digital-asset-security",
+        "tags": [
+          "Product-manager",
+          "Non-tech",
+          "Security"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Transmute"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director of Engineering",
+        "applyLink": "https://www.w3.careers//jobs/director-of-engineering",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Solidity",
+          "Node"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing Specialist",
+        "applyLink": "https://www.w3.careers//jobs/marketing-specialist",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Staff Software Engineer (Crypto Trading Infrastructure)",
+        "applyLink": "https://www.w3.careers//jobs/staff-software-engineer-crypto-trading-infrastructure-7d4af1a8-0793-45a2-8aac-eee5ed41234e",
+        "tags": [
+          "crypto",
+          "Java",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Digital Insight Games (DIG)"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Developer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-developer",
+        "tags": [
+          "JavaScript",
+          "Blockchain",
+          "Solidity",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Larson Maddox"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of Finance &amp; Comptroller",
+        "applyLink": "https://www.w3.careers//jobs/head-of-finance-amp-comptroller",
+        "tags": [
+          "Finance",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Full Stack API Engineer (Infura NFT)",
+        "applyLink": "https://www.w3.careers//jobs/senior-full-stack-api-engineer-infura-nft",
+        "tags": [
+          "JavaScript",
+          "NFT",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Staff Software Engineer, Crypto Trading Infrastructure",
+        "applyLink": "https://www.w3.careers//jobs/staff-software-engineer-crypto-trading-infrastructure",
+        "tags": [
+          "crypto",
+          "Java",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Zero Hash"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director of Financial Planning and Analysis",
+        "applyLink": "https://www.w3.careers//jobs/director-of-financial-planning-and-analysis",
+        "tags": [
+          "Finance",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Zerion"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Social Media Manager",
+        "applyLink": "https://www.w3.careers//jobs/social-media-manager",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Gauntlet"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Program Lead",
+        "applyLink": "https://www.w3.careers//jobs/program-lead",
+        "tags": [
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Windranger Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Front End Engineer",
+        "applyLink": "https://www.w3.careers//jobs/front-end-engineer",
+        "tags": [
+          "React",
+          "Dev",
+          "Front-end"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bullish"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Manager, Web",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-web",
+        "tags": [
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Empiric Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Junior Frontend Developer",
+        "applyLink": "https://www.w3.careers//jobs/junior-frontend-developer",
+        "tags": [
+          "React",
+          "Ethereum",
+          "Dev",
+          "Entry-level"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "PearDao"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Growth Manager at India/Russia/Nigeria/Latam/Asian Regions",
+        "applyLink": "https://www.w3.careers//jobs/growth-manager-at-india-russia-nigeria-latam-asian-regions",
+        "tags": [
+          "NFT",
+          "crypto",
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bitpanda"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of Security - Custody",
+        "applyLink": "https://www.w3.careers//jobs/head-of-security-custody",
+        "tags": [
+          "JavaScript",
+          "Executive",
+          "Security"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Crossmint"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-6d449426-f033-4ee9-b9b7-3a7c18045ecb",
+        "tags": [
+          "NFT",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "nWay Inc."
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Creative Director",
+        "applyLink": "https://www.w3.careers//jobs/creative-director",
+        "tags": [
+          "NFT",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "ADDX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of Operations",
+        "applyLink": "https://www.w3.careers//jobs/head-of-operations",
+        "tags": [
+          "Executive",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Mysten Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Strategist",
+        "applyLink": "https://www.w3.careers//jobs/content-strategist-6c9ee398-48f6-49c0-95f1-02a12134f95d",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "theSkimm"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Money Writer",
+        "applyLink": "https://www.w3.careers//jobs/money-writer-9b2df850-0b97-4bac-8041-cf706147678e",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ledger"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of UX Research",
+        "applyLink": "https://www.w3.careers//jobs/head-of-ux-research-a9b0c356-550b-4b42-9825-9a3dc3f9303b",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Research",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ledger"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior UX Researcher",
+        "applyLink": "https://www.w3.careers//jobs/senior-ux-researcher-325a7fae-5ce4-4560-8b78-df9587d0f041",
+        "tags": [
+          "Non-tech",
+          "Senior",
+          "Research",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "1DOT"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Project manager(Web3)",
+        "applyLink": "https://www.w3.careers//jobs/project-manager-web3-349f0f21-5920-46bd-827f-734852a835b1",
+        "tags": [
+          "Non-tech",
+          "Project-manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "1DOT"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing manager (Web3)",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager-web3-14915a59-7244-47fe-99ca-1f4aa7bf5ef6",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OKX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Data Analyst (Graduate Position)",
+        "applyLink": "https://www.w3.careers//jobs/data-analyst-graduate-position-8d442353-c062-45af-bb05-b35545e48390",
+        "tags": [
+          "Java",
+          "Intern",
+          "Entry-level",
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Immutable"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Finance Manager",
+        "applyLink": "https://www.w3.careers//jobs/senior-finance-manager-cf4dbd5e-9778-4d65-ab8c-446ce67f23e9",
+        "tags": [
+          "NFT",
+          "Ethereum",
+          "Finance",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Amazon"
+        },
+        "role": "",
+        "location": "S",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior BD Rep, Focused Territory",
+        "applyLink": "https://www.w3.careers//jobs/senior-bd-rep-focused-territory-d0e02fab-cdda-47f6-b8d1-2ab752e48501",
+        "tags": [
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "RippleX Software Engineer (Summer 2023 Intern)",
+        "applyLink": "https://www.w3.careers//jobs/ripplex-software-engineer-summer-2023-intern-fdb04cd5-a1d0-4f53-adb1-4452eace0382",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Java",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ante Labs"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Chief of Staff",
+        "applyLink": "https://www.w3.careers//jobs/chief-of-staff-eb71879a-d450-431e-8665-372184535d88",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Recruiter",
+          "Hr"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bittrex"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Lead Software Engineer - Web Team",
+        "applyLink": "https://www.w3.careers//jobs/lead-software-engineer-web-team-4e50cc33-d73e-4f03-98b0-36d353127142",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Dev",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "mesha"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solana Developer",
+        "applyLink": "https://www.w3.careers//jobs/solana-developer-e6a92566-e9fe-45f5-9958-c72c978d1256",
+        "tags": [
+          "Rust",
+          "Dev",
+          "Solana"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BitMart"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing Assistant (Spain market)",
+        "applyLink": "https://www.w3.careers//jobs/marketing-assistant-spain-market-8c0cd669-0b39-4fc4-bb0a-5ae215380986",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blockdaemon"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Partner Engineer",
+        "applyLink": "https://www.w3.careers//jobs/partner-engineer-5b7afb6e-c1fb-48a5-90bf-2241985684e3",
+        "tags": [
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cool Cats LLC"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-d81ab500-b59b-46be-a274-39518f5264a8",
+        "tags": [
+          "NFT",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "SERV"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer | Core Development",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer-core-development-db4f8a59-1b7d-450c-b6da-009f1af507fd",
+        "tags": [
+          "Rust",
+          "Blockchain",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Lore"
+        },
+        "role": "",
+        "location": "N",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Front End Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-front-end-engineer",
+        "tags": [
+          "React",
+          "Angular",
+          "Vue",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Lore"
+        },
+        "role": "",
+        "location": "N",
+        "date": "3 months",
+        "remote": false,
+        "title": "Founding Full-Stack Engineer",
+        "applyLink": "https://www.w3.careers//jobs/founding-full-stack-engineer",
+        "tags": [
+          "React",
+          "SQL",
+          "Node",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "SuperWorld"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Growth Marketer",
+        "applyLink": "https://www.w3.careers//jobs/growth-marketer",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Gauntlet"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Manager - Engineering",
+        "applyLink": "https://www.w3.careers//jobs/manager-engineering",
+        "tags": [
+          "Solidity"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "ClubRare"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Web3 Community Manager - Part-time",
+        "applyLink": "https://www.w3.careers//jobs/web3-community-manager-part-time",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Community-manager",
+          "Part-time"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Monad Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Growth",
+        "applyLink": "https://www.w3.careers//jobs/growth",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Innorve LLC"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Back End Developer - Solidity",
+        "applyLink": "https://www.w3.careers//jobs/back-end-developer-solidity",
+        "tags": [
+          "Rust",
+          "Solidity",
+          "Dev",
+          "Backend"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Matrixport"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Business Operation Specialist",
+        "applyLink": "https://www.w3.careers//jobs/business-operation-specialist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "ClubRare"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Marketing Writer",
+        "applyLink": "https://www.w3.careers//jobs/content-marketing-writer",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Crypto.com Arena"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Premium Events Services Coordinator (Crypto.com Arena)",
+        "applyLink": "https://www.w3.careers//jobs/premium-events-services-coordinator-crypto-com-arena",
+        "tags": [
+          "crypto"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Crypto.com Arena"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Virtual Recorder (Crypto.com Arena)",
+        "applyLink": "https://www.w3.careers//jobs/virtual-recorder-crypto-com-arena",
+        "tags": [
+          "crypto"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Jump Crypto"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Brand Designer",
+        "applyLink": "https://www.w3.careers//jobs/brand-designer",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Optimism"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Infrastructure Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-infrastructure-engineer",
+        "tags": [
+          "Dev",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Future Currency Group"
+        },
+        "role": "",
+        "location": "S",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior React Frontend Developer",
+        "applyLink": "https://www.w3.careers//jobs/senior-react-frontend-developer",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Dev",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Kyro Digital Corp."
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Business Development Coordinator / Associate (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/business-development-coordinator-associate-remote",
+        "tags": [
+          "Non-tech",
+          "Remote",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Robert Half"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-marketing-manager",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "SERV"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer | Security, Privacy, and Cryptography",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer-security-privacy-and-cryptography",
+        "tags": [
+          "Blockchain",
+          "Dev",
+          "Security"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "ZKX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Creator (Finance, DeFi, Trading)",
+        "applyLink": "https://www.w3.careers//jobs/content-creator-finance-defi-trading",
+        "tags": [
+          "DeFi",
+          "Finance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "PwC India"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain consultants",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-consultants",
+        "tags": [
+          "Blockchain",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "HW Select Ltd"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Defi Analyst",
+        "applyLink": "https://www.w3.careers//jobs/defi-analyst",
+        "tags": [
+          "NFT",
+          "DeFi",
+          "Ethereum",
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "The HBAR Foundation"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Business Development Associate - Metaverse Fund",
+        "applyLink": "https://www.w3.careers//jobs/business-development-associate-metaverse-fund",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Sales",
+          "Metaverse"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Amazon"
+        },
+        "role": "",
+        "location": "S",
+        "date": "3 months",
+        "remote": false,
+        "title": "Sr BD Rep, Focused Territory",
+        "applyLink": "https://www.w3.careers//jobs/sr-bd-rep-focused-territory",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "prePO"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Smart Contract Engineer (Solidity)",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-engineer-solidity-ac1bd7f0-65fd-49a1-b429-214fe7cc43c2",
+        "tags": [
+          "Solidity",
+          "Dev",
+          "Smart-contract"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Syntropy"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer (Solidity)",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer-solidity",
+        "tags": [
+          "Rust",
+          "Blockchain",
+          "Solidity",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Vivo (Telefônica Brasil)"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Techlead Blockchain  – Blockchain &amp; WEB3",
+        "applyLink": "https://www.w3.careers//jobs/techlead-blockchain-blockchain-amp-web3",
+        "tags": [
+          "JavaScript",
+          "Blockchain",
+          "Solidity",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "PlayEmber"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer-c460df6f-9023-446b-a818-6a4da6292be3",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Blockchain",
+          "React"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Celfocus"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Junior Blockchain Developer (NFTs)",
+        "applyLink": "https://www.w3.careers//jobs/junior-blockchain-developer-nfts",
+        "tags": [
+          "JavaScript",
+          "Blockchain",
+          "Solidity",
+          "NFT"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Rand Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solidity Engineer",
+        "applyLink": "https://www.w3.careers//jobs/solidity-engineer",
+        "tags": [
+          "Solidity",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "",
+        "location": "U",
+        "date": "3 months",
+        "remote": false,
+        "title": "Full Stack API Engineer (Infura NFT)",
+        "applyLink": "https://www.w3.careers//jobs/full-stack-api-engineer-infura-nft",
+        "tags": [
+          "JavaScript",
+          "NFT",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Dakai Group"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer",
+        "tags": [
+          "Rust",
+          "Blockchain",
+          "Solidity",
+          "Node"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Sticky - NFT Market"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Developer (REMOTE)",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-developer-remote",
+        "tags": [
+          "Blockchain",
+          "Solidity",
+          "NFT",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Arweave"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Engineer/Developer-Protocol Development",
+        "applyLink": "https://www.w3.careers//jobs/engineer-developer-protocol-development",
+        "tags": [
+          "Dev",
+          "Solana",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Atomic"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Web3 Summer Associate, Technical Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/web3-summer-associate-technical-product-manager",
+        "tags": [
+          "NFT",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cake DeFi"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Social Media Designer",
+        "applyLink": "https://www.w3.careers//jobs/social-media-designer",
+        "tags": [
+          "Non-tech",
+          "Design",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ren Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solidity/Smart Contract Developer (Clone)",
+        "applyLink": "https://www.w3.careers//jobs/solidity-smart-contract-developer-clone",
+        "tags": [
+          "JavaScript",
+          "Solidity",
+          "Ethereum",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cake DeFi"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Creator / Strategist",
+        "applyLink": "https://www.w3.careers//jobs/content-creator-strategist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Co:Create"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director of Marketing",
+        "applyLink": "https://www.w3.careers//jobs/director-of-marketing",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Marketing",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Yuga Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director, Social Media",
+        "applyLink": "https://www.w3.careers//jobs/director-social-media",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Executive",
+          "Social-media"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OKX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "(Senior) Investment Manager",
+        "applyLink": "https://www.w3.careers//jobs/senior-investment-manager",
+        "tags": [
+          "Finance",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Storm2"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing Director",
+        "applyLink": "https://www.w3.careers//jobs/marketing-director",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Nefture"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Full Stack Developer Web3",
+        "applyLink": "https://www.w3.careers//jobs/full-stack-developer-web3",
+        "tags": [
+          "JavaScript",
+          "React",
+          "SQL",
+          "Node"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "",
+        "location": "A",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director of Quantitative Token Engineering",
+        "applyLink": "https://www.w3.careers//jobs/director-of-quantitative-token-engineering",
+        "tags": [
+          "NFT",
+          "Ethereum",
+          "Executive",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Space Camp"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Web3 Intern",
+        "applyLink": "https://www.w3.careers//jobs/web3-intern",
+        "tags": [
+          "NFT",
+          "Intern",
+          "Entry-level"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Stakes"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-engineer-28721ab5-35c9-4910-a07f-321a9db965aa",
+        "tags": [
+          "Solidity",
+          "Node",
+          "Dev",
+          "Smart-contract"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Sfermion"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Chief of Staff",
+        "applyLink": "https://www.w3.careers//jobs/chief-of-staff-d15bd115-5290-4f79-af76-265322f06b30",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Executive",
+          "Recruiter"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Data Mynt"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "BD Executive",
+        "applyLink": "https://www.w3.careers//jobs/bd-executive",
+        "tags": [
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Hike"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Analyst (Full Time, Remote)",
+        "applyLink": "https://www.w3.careers//jobs/product-analyst-full-time-remote",
+        "tags": [
+          "Remote",
+          "Analyst",
+          "Full-time"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cake DeFi"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Workplace Associate",
+        "applyLink": "https://www.w3.careers//jobs/workplace-associate",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CoinList"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Financial Operations Analyst",
+        "applyLink": "https://www.w3.careers//jobs/financial-operations-analyst",
+        "tags": [
+          "Finance",
+          "Solana",
+          "Analyst",
+          "Operations"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Newton"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Fraud Analyst - Austin, TX",
+        "applyLink": "https://www.w3.careers//jobs/fraud-analyst-austin-tx",
+        "tags": [
+          "Analyst",
+          "Security"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Newton"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Customer Success Representative - Austin, TX",
+        "applyLink": "https://www.w3.careers//jobs/customer-success-representative-austin-tx",
+        "tags": [
+          "Customer-support"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Manager, RippleX Marketing",
+        "applyLink": "https://www.w3.careers//jobs/senior-manager-ripplex-marketing",
+        "tags": [
+          "Non-tech",
+          "Marketing",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Software Engineer (Mobile / React Native)",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer-mobile-react-native",
+        "tags": [
+          "JavaScript",
+          "React",
+          "React Native",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Software Engineer (Mobile Snaps)",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer-mobile-snaps",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Node",
+          "React Native"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Software Engineer (React Native)",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer-react-native",
+        "tags": [
+          "JavaScript",
+          "React",
+          "React Native",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaMask"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Web3 Engineering Lead (MetaMask Snaps)",
+        "applyLink": "https://www.w3.careers//jobs/senior-web3-engineering-lead-metamask-snaps",
+        "tags": [
+          "Ethereum",
+          "Lead",
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Sorare"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Community Manager, US Sports",
+        "applyLink": "https://www.w3.careers//jobs/community-manager-us-sports",
+        "tags": [
+          "NFT",
+          "Non-tech",
+          "Community-manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Burnt"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Frontend React Developer",
+        "applyLink": "https://www.w3.careers//jobs/frontend-react-developer",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "React",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Applied Blockchain"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior DevOps",
+        "applyLink": "https://www.w3.careers//jobs/senior-devops",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Golang",
+          "Ethereum"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cake DeFi"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Media Relations Manager",
+        "applyLink": "https://www.w3.careers//jobs/media-relations-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Uniswap Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Director of Product Management",
+        "applyLink": "https://www.w3.careers//jobs/director-of-product-management-6259cd65-009c-47ad-b6fc-d8264a6e7d29",
+        "tags": [
+          "Ethereum",
+          "Product-manager",
+          "Non-tech",
+          "Executive"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Taiyaki Studios"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "AI Prototyping Engineer",
+        "applyLink": "https://www.w3.careers//jobs/ai-prototyping-engineer",
+        "tags": [
+          "NFT",
+          "Dev",
+          "Remote",
+          "Ai"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Business Development Manager (Mining Pool)",
+        "applyLink": "https://www.w3.careers//jobs/business-development-manager-mining-pool",
+        "tags": [
+          "Non-tech",
+          "Remote",
+          "Sales"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "VaynerX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Vayner3, Administrative Assistant",
+        "applyLink": "https://www.w3.careers//jobs/vayner3-administrative-assistant",
+        "tags": [
+          "NFT"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "GoSats"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of Partnerships & Alliances",
+        "applyLink": "https://www.w3.careers//jobs/head-of-partnerships-alliances",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Sales",
+          "Ycombinator"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Avascan"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Core Developer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-core-developer",
+        "tags": [
+          "Blockchain",
+          "AWS",
+          "Java",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Mysten Labs"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Content Strategist",
+        "applyLink": "https://www.w3.careers//jobs/content-strategist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "theSkimm"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Money Writer",
+        "applyLink": "https://www.w3.careers//jobs/money-writer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ledger"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Head of UX Research",
+        "applyLink": "https://www.w3.careers//jobs/head-of-ux-research",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Research",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ledger"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior UX Researcher",
+        "applyLink": "https://www.w3.careers//jobs/senior-ux-researcher",
+        "tags": [
+          "Non-tech",
+          "Senior",
+          "Research",
+          "Design"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "1DOT"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Project manager(Web3)",
+        "applyLink": "https://www.w3.careers//jobs/project-manager-web3",
+        "tags": [
+          "Non-tech",
+          "Project-manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "1DOT"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing manager (Web3)",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager-web3",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "OKX"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Data Analyst (Graduate Position)",
+        "applyLink": "https://www.w3.careers//jobs/data-analyst-graduate-position",
+        "tags": [
+          "Java",
+          "Intern",
+          "Entry-level",
+          "Analyst"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Immutable"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior Finance Manager",
+        "applyLink": "https://www.w3.careers//jobs/senior-finance-manager",
+        "tags": [
+          "NFT",
+          "Ethereum",
+          "Finance",
+          "Remote"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Amazon"
+        },
+        "role": "",
+        "location": "S",
+        "date": "3 months",
+        "remote": false,
+        "title": "Senior BD Rep, Focused Territory",
+        "applyLink": "https://www.w3.careers//jobs/senior-bd-rep-focused-territory",
+        "tags": [
+          "Senior"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ripple"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "RippleX Software Engineer (Summer 2023 Intern)",
+        "applyLink": "https://www.w3.careers//jobs/ripplex-software-engineer-summer-2023-intern",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Java",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ante Labs"
+        },
+        "role": "",
+        "location": "R",
+        "date": "3 months",
+        "remote": false,
+        "title": "Chief of Staff",
+        "applyLink": "https://www.w3.careers//jobs/chief-of-staff",
+        "tags": [
+          "Non-tech",
+          "Executive",
+          "Recruiter",
+          "Hr"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bittrex"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Lead Software Engineer - Web Team",
+        "applyLink": "https://www.w3.careers//jobs/lead-software-engineer-web-team",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Dev",
+          "Lead"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "mesha"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Solana Developer",
+        "applyLink": "https://www.w3.careers//jobs/solana-developer",
+        "tags": [
+          "Rust",
+          "Dev",
+          "Solana"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BitMart"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Marketing Assistant (Spain market)",
+        "applyLink": "https://www.w3.careers//jobs/marketing-assistant-spain-market",
+        "tags": [
+          "Non-tech",
+          "Marketing"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blockdaemon"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Partner Engineer",
+        "applyLink": "https://www.w3.careers//jobs/partner-engineer",
+        "tags": [
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cool Cats LLC"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/product-manager",
+        "tags": [
+          "NFT",
+          "Product-manager",
+          "Non-tech"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "SERV"
+        },
+        "role": "",
+        "location": "",
+        "date": "3 months",
+        "remote": false,
+        "title": "Blockchain Engineer | Core Development",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-engineer-core-development",
+        "tags": [
+          "Rust",
+          "Blockchain",
+          "Dev"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Dex Job Agency"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "3 months",
+        "remote": true,
+        "title": "Marketing Agent",
+        "applyLink": "https://www.w3.careers//jobs/marketing-agent",
+        "tags": [
+          "Online personality",
+          "1-1 engagement",
+          "sales background"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "W",
+        "date": "3 months",
+        "remote": false,
+        "title": "Account Manager - BNB Chain",
+        "applyLink": "https://www.w3.careers//jobs/account-manager-bnb-chain",
+        "tags": [
+          "Web 3",
+          "crypto"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 120,000.00\n                    - USD 150,000.00",
+        "remote": true,
+        "title": "Accounting Director, Revenue & Digital Assets",
+        "applyLink": "https://www.w3.careers//jobs/accounting-director-revenue-digital-assets",
+        "tags": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blocknative"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 40,000.00\n                    - USD 170,000.00",
+        "remote": true,
+        "title": "Accounting Manager",
+        "applyLink": "https://www.w3.careers//jobs/accounting-manager",
+        "tags": [
+          "Web3",
+          "DeFi",
+          "Fintech",
+          "Excel"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Confidential"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "3 months",
+        "remote": true,
+        "title": "Lead Senior Product Manager Web3",
+        "applyLink": "https://www.w3.careers//jobs/lead-senior-product-manager-web3",
+        "tags": [
+          "Web3",
+          "NFT",
+          "Gaming"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "PlacingIT - Certified NMSDC, WBENC and HUB"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 70,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Blockchain Developer Remote in the US",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-developer-remote-in-the-us",
+        "tags": [
+          "Go",
+          "Smart Contracts",
+          "Ethereum",
+          "C++"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Status"
+        },
+        "role": "Remote",
+        "location": "7",
+        "date": "3 months",
+        "remote": true,
+        "title": "Senior React Native UI Developer",
+        "applyLink": "https://www.w3.careers//jobs/senior-react-native-ui-developer",
+        "tags": [
+          "React Native",
+          "Android",
+          "Objective C",
+          "Kotlin"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CoinTracker"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 60,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Software Engineer Mobile Remote",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer-mobile-remote",
+        "tags": [
+          "React",
+          "React Native",
+          "Expo",
+          "GraphQL"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blockdaemon"
+        },
+        "role": "",
+        "location": "S",
+        "date": "USD 80,000.00\n                    - USD 220,000.00",
+        "remote": false,
+        "title": "Incident and Communications Manager Contract",
+        "applyLink": "https://www.w3.careers//jobs/incident-and-communications-manager-contract",
+        "tags": [
+          "Service Management",
+          "ITIL Foundation"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Amazon"
+        },
+        "role": "",
+        "location": "U",
+        "date": "USD 60,000.00\n                    - USD 90,000.00",
+        "remote": false,
+        "title": "Senior Product Manager Tech Web3",
+        "applyLink": "https://www.w3.careers//jobs/senior-product-manager-tech-web3",
+        "tags": [
+          "Blockchain",
+          "Web 3",
+          "Product Manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Evolvinc"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 60,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Product ManagerBlockchain REMOTE",
+        "applyLink": "https://www.w3.careers//jobs/product-managerblockchain-remote",
+        "tags": [
+          "Blockchain",
+          "Product Manager"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Parity Technologies"
+        },
+        "role": "Remote",
+        "location": "E",
+        "date": "USD 100,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Gaming NFT Lead Ecosystem Growth",
+        "applyLink": "https://www.w3.careers//jobs/gaming-nft-lead-ecosystem-growth",
+        "tags": [
+          "NFT",
+          "Gaming",
+          "Growth"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Certi.NFT"
+        },
+        "role": "Remote",
+        "location": "R",
+        "date": "USD 50,000.00\n                    - USD 70,000.00",
+        "remote": true,
+        "title": "CTO",
+        "applyLink": "https://www.w3.careers//jobs/cto",
+        "tags": [
+          "Blockchain",
+          "NFT",
+          "CTO"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Storylines at Sea"
+        },
+        "role": "Remote",
+        "location": "F",
+        "date": "USD 50,000.00\n                    - USD 180,000.00",
+        "remote": true,
+        "title": "Chief Technology Officer Remote",
+        "applyLink": "https://www.w3.careers//jobs/chief-technology-officer-remote",
+        "tags": [
+          "NFT",
+          "crypto",
+          "CTO",
+          "tokenomics"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Lushious"
+        },
+        "role": "",
+        "location": "N",
+        "date": "USD 60,000.00\n                    - USD 300,000.00",
+        "remote": false,
+        "title": "Chief Technology Officer",
+        "applyLink": "https://www.w3.careers//jobs/chief-technology-officer-1021a7d7-126a-4694-a962-a3b28fbc77ff",
+        "tags": [
+          "Python",
+          "CTO",
+          "AWS"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Webaverse"
+        },
+        "role": "",
+        "location": "U",
+        "date": "USD 220,000.00\n                    - USD 300,000.00",
+        "remote": false,
+        "title": "Chief Technology Officer",
+        "applyLink": "https://www.w3.careers//jobs/chief-technology-officer",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Solidity",
+          "Three.js"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "Remote",
+        "location": "G",
+        "date": "USD 20,000.00\n                    - USD 90,000.00",
+        "remote": true,
+        "title": "Disputes Analyst (Customer service) - (Russian/English)",
+        "applyLink": "https://www.w3.careers//jobs/disputes-analyst-customer-service-russian-english",
+        "tags": [
+          "English",
+          "Russian",
+          "Customer service"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TRM"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 40,000.00\n                    - USD 70,000.00",
+        "remote": true,
+        "title": "Senior Software Engineer Backend",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer-backend",
+        "tags": [
+          "Go",
+          "JavaScript",
+          "Python",
+          "Node.js"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Uniswap Labs"
+        },
+        "role": "Remote",
+        "location": "N",
+        "date": "USD 90,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Developer Relations Lead",
+        "applyLink": "https://www.w3.careers//jobs/developer-relations-lead-172f0c91-3442-4064-a1af-b8665d0c313a",
+        "tags": [
+          "React",
+          "Solidity",
+          "Web3",
+          "DeFi"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Topl"
+        },
+        "role": "Remote",
+        "location": "A",
+        "date": "USD 90,000.00\n                    - USD 110,000.00",
+        "remote": true,
+        "title": "Developer Advocate",
+        "applyLink": "https://www.w3.careers//jobs/developer-advocate",
+        "tags": [
+          "JavaScript",
+          "Full Stack",
+          "Python"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Topl"
+        },
+        "role": "Remote",
+        "location": "A",
+        "date": "USD 100,000.00\n                    - USD 130,000.00",
+        "remote": true,
+        "title": "Mid-level (web3) Full-Stack Application Engineer (Dart/Flutter)",
+        "applyLink": "https://www.w3.careers//jobs/mid-level-web3-full-stack-application-engineer-dart-flutter",
+        "tags": [
+          "Web3",
+          "Flutter",
+          "Dart"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Topl"
+        },
+        "role": "Remote",
+        "location": "T",
+        "date": "USD 70,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Seniorlevel web3 FullStack Application Engineer Dart Flutter",
+        "applyLink": "https://www.w3.careers//jobs/seniorlevel-web3-fullstack-application-engineer-dart-flutter",
+        "tags": [
+          "Typescript",
+          "Flutter",
+          "Dart",
+          "Grafana"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Fleek"
+        },
+        "role": "Remote",
+        "location": "N",
+        "date": "USD 80,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Protocol/Network Engineer",
+        "applyLink": "https://www.w3.careers//jobs/protocol-network-engineer",
+        "tags": [
+          "Rust",
+          "Go",
+          "JavaScript",
+          "Smart Contracts"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Fleek"
+        },
+        "role": "Remote",
+        "location": "N",
+        "date": "USD 90,000.00\n                    - USD 160,000.00",
+        "remote": true,
+        "title": "Developer Relations Lead",
+        "applyLink": "https://www.w3.careers//jobs/developer-relations-lead",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Blockchain",
+          "React"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "AP Capital"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 90,000.00\n                    - USD 150,000.00",
+        "remote": true,
+        "title": "Blockchain Security Engineer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-security-engineer",
+        "tags": [
+          "Blockchain",
+          "Python",
+          "Bash",
+          "Linux"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Crypto.com"
+        },
+        "role": "",
+        "location": "H",
+        "date": "USD 60,000.00\n                    - USD 170,000.00",
+        "remote": false,
+        "title": "Partnerships Business Development Associate Manager Cronos ID",
+        "applyLink": "https://www.w3.careers//jobs/partnerships-business-development-associate-manager-cronos-id",
+        "tags": [
+          "Web3",
+          "Dapp",
+          "NFT",
+          "Communication"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cascadia Carbon"
+        },
+        "role": "",
+        "location": "C",
+        "date": "USD 40,000.00\n                    - USD 90,000.00",
+        "remote": false,
+        "title": "Crypto Blockchain database engineer",
+        "applyLink": "https://www.w3.careers//jobs/crypto-blockchain-database-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "IEX"
+        },
+        "role": "",
+        "location": "N",
+        "date": "USD 80,000.00\n                    - USD 140,000.00",
+        "remote": false,
+        "title": "Software Engineer Intern",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer-intern",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Blockchain",
+          "React"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Spindl"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 200,000.00\n                    - USD 240,000.00",
+        "remote": true,
+        "title": "Founding Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/founding-smart-contract-engineer",
+        "tags": [
+          "Smart Contracts",
+          "Blockchain",
+          "Solidity",
+          "Jupyter"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Coinbase"
+        },
+        "role": "",
+        "location": "S",
+        "date": "USD 100,000.00\n                    - USD 160,000.00",
+        "remote": false,
+        "title": "Senior Blockchain Security Engineer Cryptography Research",
+        "applyLink": "https://www.w3.careers//jobs/senior-blockchain-security-engineer-cryptography-research",
+        "tags": [
+          "Blockchain"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TRM Labs"
+        },
+        "role": "",
+        "location": "U",
+        "date": "USD 50,000.00\n                    - USD 80,000.00",
+        "remote": false,
+        "title": "Web3 Data Analyst, Blockchain Intelligence",
+        "applyLink": "https://www.w3.careers//jobs/web3-data-analyst-blockchain-intelligence",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bunnylol"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 50,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Web3 Product Designer UI UX",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-designer-ui-ux",
+        "tags": [
+          "English",
+          "Google Analytics",
+          "Prototyping"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MELD"
+        },
+        "role": "",
+        "location": "B",
+        "date": "USD 60,000.00\n                    - USD 100,000.00",
+        "remote": false,
+        "title": "Back End Golang Developer",
+        "applyLink": "https://www.w3.careers//jobs/back-end-golang-developer",
+        "tags": [
+          "Go",
+          "Solidity",
+          "Web3",
+          "Typescript"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "University of Nicosia"
+        },
+        "role": "",
+        "location": "N",
+        "date": "4 months",
+        "remote": false,
+        "title": "Solidity Developer",
+        "applyLink": "https://www.w3.careers//jobs/solidity-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CertiK LLC"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "Senior Blockchain Security Engineer - (Solidity / Rust / Golang)",
+        "applyLink": "https://www.w3.careers//jobs/senior-blockchain-security-engineer-solidity-rust-golang",
+        "tags": [
+          "Rust",
+          "Solidity",
+          "Golang",
+          "Ethereum Virtual Machine"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "CryptoWallet.com"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Token Marketer",
+        "applyLink": "https://www.w3.careers//jobs/token-marketer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Undeads Metaverse"
+        },
+        "role": "Remote",
+        "location": "B",
+        "date": "USD 150,000.00\n                    - USD 300,000.00",
+        "remote": true,
+        "title": "Chief Executive Officer",
+        "applyLink": "https://www.w3.careers//jobs/chief-executive-officer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Concordium"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "Campaign Specialist",
+        "applyLink": "https://www.w3.careers//jobs/campaign-specialist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Almanak"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager-66323917-2043-4380-9810-d441225c9662",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MAKE"
+        },
+        "role": "Remote",
+        "location": "R",
+        "date": "4 months",
+        "remote": true,
+        "title": "Front-end Engineer (Blockchain)",
+        "applyLink": "https://www.w3.careers//jobs/front-end-engineer-blockchain",
+        "tags": [
+          "JavaScript",
+          "React",
+          "Typescript",
+          "English"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "4 months",
+        "remote": true,
+        "title": "Customer Success Manager - Polygon Studios (Remote)",
+        "applyLink": "https://www.w3.careers//jobs/customer-success-manager-polygon-studios-remote",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Product Designer (UX) - PoS",
+        "applyLink": "https://www.w3.careers//jobs/product-designer-ux-pos",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Sr./Staff Front-end Dapps Engineer",
+        "applyLink": "https://www.w3.careers//jobs/sr-staff-front-end-dapps-engineer",
+        "tags": [
+          "React",
+          "Dapp",
+          "Typescript",
+          "React Native"
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Product Manager - Blockchain Research",
+        "applyLink": "https://www.w3.careers//jobs/product-manager-blockchain-research",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Software Engineer - Polygon Avail Integrations",
+        "applyLink": "https://www.w3.careers//jobs/software-engineer-polygon-avail-integrations",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Staff Engineer - Backend (Product Applications)",
+        "applyLink": "https://www.w3.careers//jobs/staff-engineer-backend-product-applications",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "Remote",
+        "location": "P",
+        "date": "4 months",
+        "remote": true,
+        "title": "Blockchain Solutions Engineer",
+        "applyLink": "https://www.w3.careers//jobs/blockchain-solutions-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Polygon"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "Corporate Compliance Director",
+        "applyLink": "https://www.w3.careers//jobs/corporate-compliance-director",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Binance"
+        },
+        "role": "",
+        "location": "I",
+        "date": "4 months",
+        "remote": false,
+        "title": "Marketing & Community Management - Italy, Milan (paid internship)",
+        "applyLink": "https://www.w3.careers//jobs/marketing-community-management-italy-milan-paid-internship",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MoonPay"
+        },
+        "role": "Remote",
+        "location": "R",
+        "date": "4 months",
+        "remote": true,
+        "title": "Senior Product Manager - Web3 Infrastructure",
+        "applyLink": "https://www.w3.careers//jobs/senior-product-manager-web3-infrastructure",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MoonPay"
+        },
+        "role": "",
+        "location": "L",
+        "date": "4 months",
+        "remote": false,
+        "title": "Senior Full Stack Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-full-stack-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Toptal"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 60,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Senior Blockchain Developer",
+        "applyLink": "https://www.w3.careers//jobs/senior-blockchain-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Eulith"
+        },
+        "role": "",
+        "location": "N",
+        "date": "USD 150,000.00\n                    - USD 250,000.00",
+        "remote": false,
+        "title": "Product Engineer; Front-End Dev",
+        "applyLink": "https://www.w3.careers//jobs/product-engineer-front-end-dev",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "FOX Tech"
+        },
+        "role": "",
+        "location": "C",
+        "date": "USD 60,000.00\n                    - USD 150,000.00",
+        "remote": false,
+        "title": "Senior Front End Engineer Platm",
+        "applyLink": "https://www.w3.careers//jobs/senior-front-end-engineer-platm",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Consensys"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 50,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "DevOps Engineer",
+        "applyLink": "https://www.w3.careers//jobs/devops-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Aldrin Labs"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "4 months",
+        "remote": true,
+        "title": "Senior Smart Contracts Research & Engineer (Multiple Languages)",
+        "applyLink": "https://www.w3.careers//jobs/senior-smart-contracts-research-engineer-multiple-languages",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Cometh"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "Site Reliability Engineer",
+        "applyLink": "https://www.w3.careers//jobs/site-reliability-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Boson Protocol"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "Technical Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/technical-product-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BNB Chain Labs"
+        },
+        "role": "",
+        "location": "W",
+        "date": "4 months",
+        "remote": false,
+        "title": "VP of Technology",
+        "applyLink": "https://www.w3.careers//jobs/vp-of-technology",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Tropee"
+        },
+        "role": "Remote",
+        "location": "E",
+        "date": "USD 50,000.00\n                    - USD 80,000.00",
+        "remote": true,
+        "title": "Vue.js Frontend Developer",
+        "applyLink": "https://www.w3.careers//jobs/vue-js-frontend-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 120,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Platform Engineer (Backend Focused)",
+        "applyLink": "https://www.w3.careers//jobs/platform-engineer-backend-focused",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 140,000.00\n                    - USD 150,000.00",
+        "remote": true,
+        "title": "Head of Community",
+        "applyLink": "https://www.w3.careers//jobs/head-of-community",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 200,000.00\n                    - USD 210,000.00",
+        "remote": true,
+        "title": "Senior Software Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-software-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 180,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "CMO",
+        "applyLink": "https://www.w3.careers//jobs/cmo",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 250,000.00\n                    - USD 350,000.00",
+        "remote": true,
+        "title": "Director of Product Management",
+        "applyLink": "https://www.w3.careers//jobs/director-of-product-management",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "TheCryptoRecruiters.io"
+        },
+        "role": "Remote",
+        "location": "U",
+        "date": "USD 120,000.00\n                    - USD 130,000.00",
+        "remote": true,
+        "title": "Executive Assistant / Operations Manager",
+        "applyLink": "https://www.w3.careers//jobs/executive-assistant-operations-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Blank Network"
+        },
+        "role": "Remote",
+        "location": "",
+        "date": "5 months",
+        "remote": true,
+        "title": "Creative Copywriter",
+        "applyLink": "https://www.w3.careers//jobs/creative-copywriter",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "decent.land"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 40,000.00\n                    - USD 60,000.00",
+        "remote": true,
+        "title": "Web3 Frontend Developer (JS/React)",
+        "applyLink": "https://www.w3.careers//jobs/web3-frontend-developer-js-react",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Infinite Capital"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 80,000.00\n                    - USD 180,000.00",
+        "remote": true,
+        "title": "Smart Contract/Web3 Developer",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-web3-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Decent DAO"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 150,000.00\n                    - USD 170,000.00",
+        "remote": true,
+        "title": "Senior Web3 Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-web3-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Ferrum Network"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 120,000.00\n                    - USD 150,000.00",
+        "remote": true,
+        "title": "Web3 Blockchain Engineer/RUST (Casper)",
+        "applyLink": "https://www.w3.careers//jobs/web3-blockchain-engineer-rust-casper",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Finfin AG"
+        },
+        "role": "",
+        "location": "S",
+        "date": "8 months",
+        "remote": false,
+        "title": "Web3 NFT Social media & Community Manager",
+        "applyLink": "https://www.w3.careers//jobs/web3-nft-social-media-community-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Data Lake"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 30,000.00\n                    - USD 90,000.00",
+        "remote": true,
+        "title": "Senior Fullstack Java Developer",
+        "applyLink": "https://www.w3.careers//jobs/senior-fullstack-java-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "The Weirdos NFT"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "8 months",
+        "remote": true,
+        "title": "Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager-e9fd6de0-11b4-4665-8b02-89442690cf9c",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Solvo Finance"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 60,000.00\n                    - USD 90,000.00",
+        "remote": true,
+        "title": "Web3 Product Designer",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-designer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MintMe"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "8 months",
+        "remote": true,
+        "title": "Web3 Linux System Administrator / Devops",
+        "applyLink": "https://www.w3.careers//jobs/web3-linux-system-administrator-devops",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "unpaired."
+        },
+        "role": "Remote",
+        "location": "R",
+        "date": "USD 60,000.00\n                    - USD 120,000.00",
+        "remote": true,
+        "title": "Web3 Senior Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-marketing-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Dash Core Group"
+        },
+        "role": "Remote",
+        "location": "",
+        "date": "8 months",
+        "remote": true,
+        "title": "Technical Writer",
+        "applyLink": "https://www.w3.careers//jobs/technical-writer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Playco"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 80,000.00\n                    - USD 180,000.00",
+        "remote": true,
+        "title": "Marketing Manager",
+        "applyLink": "https://www.w3.careers//jobs/marketing-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Topl"
+        },
+        "role": "Remote",
+        "location": "A",
+        "date": "USD 90,000.00\n                    - USD 110,000.00",
+        "remote": true,
+        "title": "Web3 Product Marketing",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-marketing",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Kronos Research"
+        },
+        "role": "",
+        "location": "W",
+        "date": "USD 100,000.00\n                    - USD 250,000.00",
+        "remote": false,
+        "title": "Web3 Staff Software Engineer, C++",
+        "applyLink": "https://www.w3.careers//jobs/web3-staff-software-engineer-c",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "LOCKON"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 60,000.00\n                    - USD 110,000.00",
+        "remote": true,
+        "title": "Web3 Senior Backend Developer (TypeScript, Solidity)",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-backend-developer-typescript-solidity",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Status.im"
+        },
+        "role": "",
+        "location": "W",
+        "date": "USD 100,000.00\n                    - USD 150,000.00",
+        "remote": false,
+        "title": "Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Bitkub"
+        },
+        "role": "",
+        "location": "B",
+        "date": "USD 70,000.00\n                    - USD 110,000.00",
+        "remote": false,
+        "title": "Web3 Senior Marketing Associate",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-marketing-associate",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Autonomous"
+        },
+        "role": "",
+        "location": "V",
+        "date": "9 months",
+        "remote": false,
+        "title": "Operations Intern",
+        "applyLink": "https://www.w3.careers//jobs/operations-intern",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Saga"
+        },
+        "role": "",
+        "location": "L",
+        "date": "USD 30,000.00\n                    - USD 160,000.00",
+        "remote": false,
+        "title": "Web3 Go Backend Engineer",
+        "applyLink": "https://www.w3.careers//jobs/web3-go-backend-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Gemmy"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 70,000.00\n                    - USD 120,000.00",
+        "remote": true,
+        "title": "Remote Full Stack Web3 Co Founder",
+        "applyLink": "https://www.w3.careers//jobs/remote-full-stack-web3-co-founder",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Nodle"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "9 months",
+        "remote": true,
+        "title": "Senior Blockchain Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-blockchain-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Stargate"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 140,000.00\n                    - USD 200,000.00",
+        "remote": true,
+        "title": "Senior Frontend Engineer",
+        "applyLink": "https://www.w3.careers//jobs/senior-frontend-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "prePO"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 100,000.00\n                    - USD 250,000.00",
+        "remote": true,
+        "title": "Smart Contract Engineer (Solidity)",
+        "applyLink": "https://www.w3.careers//jobs/smart-contract-engineer-solidity",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Paperclip Partners"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "9 months",
+        "remote": true,
+        "title": "Cryptocurrency Internship Program at Paperclip Partners",
+        "applyLink": "https://www.w3.careers//jobs/cryptocurrency-internship-program-at-paperclip-partners",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "AE Studio"
+        },
+        "role": "Remote",
+        "location": "L",
+        "date": "9 months",
+        "remote": true,
+        "title": "Web3 Senior Blockchain Developer",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-blockchain-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "VCRED"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "9 months",
+        "remote": true,
+        "title": "Senior Solidity Developer",
+        "applyLink": "https://www.w3.careers//jobs/senior-solidity-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "VCRED"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 50,000.00\n                    - USD 70,000.00",
+        "remote": true,
+        "title": "Web3 Backend Developer",
+        "applyLink": "https://www.w3.careers//jobs/web3-backend-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Baby Doge Coin"
+        },
+        "role": "",
+        "location": "F",
+        "date": "USD 120,000.00\n                    - USD 250,000.00",
+        "remote": false,
+        "title": "Full Stack Solidity Enginee",
+        "applyLink": "https://www.w3.careers//jobs/full-stack-solidity-enginee",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Chainalysis"
+        },
+        "role": "",
+        "location": "N",
+        "date": "9 months",
+        "remote": false,
+        "title": "Web3 Product Data Analyst, Finance",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-data-analyst-finance",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Lovelace World"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 40,000.00\n                    - USD 80,000.00",
+        "remote": true,
+        "title": "DApp Lead Designer",
+        "applyLink": "https://www.w3.careers//jobs/dapp-lead-designer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Web3 Blockchain Product Manager"
+        },
+        "role": "",
+        "location": "D",
+        "date": "USD 10,000.00\n                    - USD 20,000.00",
+        "remote": false,
+        "title": "XAEGIR",
+        "applyLink": "https://www.w3.careers//jobs/xaegir",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BattleFly"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 110,000.00\n                    - USD 160,000.00",
+        "remote": true,
+        "title": "Web3 Product Manager for Blockchain Game Studio",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-manager-for-blockchain-game-studio",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Immunefi"
+        },
+        "role": "",
+        "location": "W",
+        "date": "10 months",
+        "remote": false,
+        "title": "Web3 Product Manager",
+        "applyLink": "https://www.w3.careers//jobs/web3-product-manager",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Origins Analytics"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "10 months",
+        "remote": true,
+        "title": "Web3 Business Development Lead",
+        "applyLink": "https://www.w3.careers//jobs/web3-business-development-lead",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaLabs"
+        },
+        "role": "",
+        "location": "D",
+        "date": "USD 60,000.00\n                    - USD 80,000.00",
+        "remote": false,
+        "title": "Web3 3D Designer",
+        "applyLink": "https://www.w3.careers//jobs/web3-3d-designer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaLabs"
+        },
+        "role": "",
+        "location": "D",
+        "date": "USD 30,000.00\n                    - USD 40,000.00",
+        "remote": false,
+        "title": "Web3 Community Mods",
+        "applyLink": "https://www.w3.careers//jobs/web3-community-mods",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "MetaLabs"
+        },
+        "role": "",
+        "location": "D",
+        "date": "USD 80,000.00\n                    - USD 120,000.00",
+        "remote": false,
+        "title": "Web3 Gamification Strategist",
+        "applyLink": "https://www.w3.careers//jobs/web3-gamification-strategist",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "O(1) Labs"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 50,000.00\n                    - USD 160,000.00",
+        "remote": true,
+        "title": "Web3 Blockchain Software Test Functional Engineer",
+        "applyLink": "https://www.w3.careers//jobs/web3-blockchain-software-test-functional-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "BattleFly"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 70,000.00\n                    - USD 150,000.00",
+        "remote": true,
+        "title": "Web3 Senior Backend Developer for GameFi Studio (Node.js)",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-backend-developer-for-gamefi-studio-node-js",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Tao"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 100,000.00\n                    - USD 400,000.00",
+        "remote": true,
+        "title": "Hedge Fund Web3 Python Software Engineer",
+        "applyLink": "https://www.w3.careers//jobs/hedge-fund-web3-python-software-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Algofi"
+        },
+        "role": "",
+        "location": "N",
+        "date": "USD 120,000.00\n                    - USD 150,000.00",
+        "remote": false,
+        "title": "Web3 Smart Contract Engineer",
+        "applyLink": "https://www.w3.careers//jobs/web3-smart-contract-engineer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Palmswap"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "USD 120,000.00\n                    - USD 140,000.00",
+        "remote": true,
+        "title": "Web3 Senior Frontend Developer",
+        "applyLink": "https://www.w3.careers//jobs/web3-senior-frontend-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Mome"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "10 months",
+        "remote": true,
+        "title": "Web3 Web 3 Frontend Developer",
+        "applyLink": "https://www.w3.careers//jobs/web3-web-3-frontend-developer",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "sticky": false,
+        "highlight": true,
+        "description": "",
+        "company": {
+          "logo": {},
+          "slug": "",
+          "name": "Venly"
+        },
+        "role": "Remote",
+        "location": "W",
+        "date": "10 months",
+        "remote": true,
+        "title": "Community Strategist",
+        "applyLink": "https://www.w3.careers//jobs/community-strategist",
+        "tags": [
+          ""
+        ]
+      }
+    ]
   }
 }
