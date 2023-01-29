@@ -72,7 +72,17 @@ const fetchSource = () => {
           // let link = $(trs[i]).find('.job-company-name a').eq(0).attr('href');
           job.tags = $(trs[i]).find('.jobsearch-filter-tool-black-shape').eq(0).parent().text().trim().split(',').map(t=>t.trim());
           job.applyLink = $(trs[i]).find('a.applynowbtn').eq(0).attr('href');
+          await page.goto(job.applyLink,{
+            waitUntil: 'load',
+            timeout: 0
+          })
+          const html2 =  await page.evaluate(async () => {
+            return document.body.innerHTML;  
+          })
+          const $2 = cheerio.load(html2);
+          job.description = JSON.stringify({'About the job': $2('.jobsearch-description').eq(0).html()});
           job.remote = $(trs[i]).find('a.applynowbtn').eq(1).text() == 'Remote'
+          job.slug = job.company.name+' '+job.title;
           entities.jobs.push(job)
           console.log(job)
         }

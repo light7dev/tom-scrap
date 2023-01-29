@@ -65,12 +65,23 @@ const fetchSource = () => {
           job.date = $(trs[i]).find('.col-start-3  span').eq(0).text().trim();
           job.company.name = $(trs[i]).find('.row-start-2 h2 a').eq(0).text();
           job.company.slug = '';
+          
           job.company.logo = {};
           job.tags = $(trs[i]).find('.col-end-2 ul').eq(2).text().split('  ').filter(i=>i.trim()!=='').map(i=>i.trim());
           job.remote = $(trs[i]).find('.col-end-2 ul').eq(0).text() == 'Remote'
           job.role = $(trs[i]).find('.col-end-2 h4').eq(1).text().trim()
           job.jobType = $(trs[i]).find('.col-end-2 ul').eq(1).text().trim()
           job.compensation = $(trs[i]).find('.col-end-2 ul').eq(1).next().next().text().trim().split('–').map(i=>i.trim())
+          job.slug = job.company.name+' '+job.title;
+          await page.goto(job.applyLink,{
+            waitUntil: 'load',
+            timeout: 0
+          })
+          const html2 =  await page.evaluate(async () => {
+            return document.body.innerHTML;  
+          })
+          const $2 = cheerio.load(html2);
+          job.description = JSON.stringify({'About the job': $2('.prose').eq(0).html()});
           entities.jobs.push(job)
           console.log(job)
         }

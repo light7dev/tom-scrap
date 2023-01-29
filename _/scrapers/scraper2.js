@@ -64,6 +64,7 @@ const fetchSource = () => {
           job.highlight = false;
           job.compensation = [];
           job.company.name = $(trs[i]).find('.job-url span').eq(0).text().trim();
+          job.slug = job.company.name+' '+job.title;
           job.jobType = $(trs[i]).find('small span').eq(0).text().trim();
           job.role = $(trs[i]).find('small span').eq(1).text().trim();
           job.location = $(trs[i]).find('small span').eq(2).text().trim();
@@ -73,7 +74,15 @@ const fetchSource = () => {
           job.date = $(trs[i]).find('span[itemprop="datePosted"]').eq(0).text().trim();
           let link = $(trs[i]).find('.job-url').eq(0).attr('href');
           job.applyLink = link;
-          job.description = '';
+          await page.goto(link,{
+            waitUntil: 'load',
+            timeout: 0
+          })
+          const html2 =  await page.evaluate(async () => {
+            return document.body.innerHTML;  
+          })
+          const $2 = cheerio.load(html2);
+          job.description = JSON.stringify({'About the job': $2('.table-jobs').next().next().next().next().html()});
           console.log(job)
           entities.jobs.push(job)
         }

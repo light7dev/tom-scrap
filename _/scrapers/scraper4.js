@@ -77,6 +77,18 @@ const fetchSource = () => {
             job.remote = job.role==='Remote';
             job.title = $(trs[j]).find('.row .col-md-8 .h5 a').eq(0).text().trim();
             job.applyLink = scrapInfo.website+$(trs[j]).find('.row .col-md-8 .h5 a').eq(0).attr('href');
+          job.slug = job.company.name+' '+job.title;
+
+            await page.goto(job.applyLink,{
+              waitUntil: 'load',
+              timeout: 0
+            })
+            const html2 =  await page.evaluate(async () => {
+              return document.body.innerHTML;  
+            })
+            const $2 = cheerio.load(html2);
+            job.description = JSON.stringify({'About the job': $2('.jobsearch-container').eq(0).html()});
+
             job.tags = $(trs[j]).find('.row .col-md-8 > div').eq(1).text().trim().split('\n').map(i=>i.trim());
             entities.jobs.push(job)
             console.log(job)

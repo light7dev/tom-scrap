@@ -3,6 +3,1234 @@
   "name": "Web3 Jobs",
   "website": "https://web3.career/",
   "entities": {
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Senior Product Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote (EU timezones)",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Violet",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Violet Senior Product Manager",
+        "compensation": "$100k - $140k",
+        "tags": [
+          "product manager",
+          "non tech",
+          "senior",
+          "defi",
+          "remote"
+        ],
+        "postDate": "18h",
+        "description": "{\"About the job\":\" \\\"What we do &amp; what we’re looking for Violet&#39;s mission is to evolve trust in Web3. We are building on-chain compliance and identity management infrastructure. We believe this is key for the industry to expand and become more robust. Our first product is the Humanbound Token. We are looking for a senior product manager to lead all product delivery and execution\"}"
+      },
+      {
+        "title": "SCRUM MASTER",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Barcelona, Spain",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "ETHERMAIL",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "ETHERMAIL SCRUM MASTER",
+        "compensation": "$35k - $50k",
+        "tags": [
+          "scrum",
+          "non tech",
+          "agile",
+          "project manager"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"Do you want to be part of a fast growing web3 startup? EtherMail is the first Web 3.0 Email Solution setting the standard for anonymous and encrypted wallet-to-wallet communication\"}"
+      },
+      {
+        "title": "NFT Social media & Community Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Switzerland",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Finfinplay AG",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Finfinplay AG NFT Social media & Community Manager",
+        "compensation": "",
+        "tags": [
+          "community manager",
+          "nft",
+          "social media",
+          "non tech",
+          "discord"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"Finfin Play&#39;s mission is to empower female gamers and we are offering a Web3 NFT Social Media &amp; Community Manager position in the European region. If you are interested in this position\"}"
+      },
+      {
+        "title": "Backend Engineer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Kodex",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Kodex Backend Engineer",
+        "compensation": "$90k - $125k",
+        "tags": [
+          "backend",
+          "dev",
+          "data entry",
+          "full time",
+          "graphql"
+        ],
+        "postDate": "5d",
+        "description": "{\"About the job\":\" \\\"Kodex is building the first marketplace specifically for ENS (Ethereum Name Service). Aside from curating a more liquid market based on extensive categorization and filters\"}"
+      },
+      {
+        "title": "Marketing Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Ewin Games",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Ewin Games Marketing Manager",
+        "compensation": "",
+        "tags": [
+          "marketing manager",
+          "marketing",
+          "non tech",
+          "blockchain",
+          "game dev"
+        ],
+        "postDate": "5d",
+        "description": "{\"About the job\":\" \\\"Our company Ewin Games specializes in Web3 gaming and is preparing to launch the first game\"}"
+      },
+      {
+        "title": "Senior Smart Contract Engineer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote - EU time zone -",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Violet",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Violet Senior Smart Contract Engineer",
+        "compensation": "",
+        "tags": [
+          "dev",
+          "senior",
+          "remote"
+        ],
+        "postDate": "5d",
+        "description": "{\"About the job\":\" \\\" What we do Violet&#39;s mission is to evolve trust in Web3. Among a few other things\"}"
+      },
+      {
+        "title": "CMO - Co-Founder / Equity only",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Full Remote - Global",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Miletus Finance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Miletus Finance CMO - Co-Founder / Equity only",
+        "compensation": "",
+        "tags": [
+          "cmo",
+          "co founder",
+          "defi",
+          "ethereum",
+          "founding member"
+        ],
+        "postDate": "9d",
+        "description": "{\"About the job\":\" \\\"We are looking to team up with a talented marketing co-founders with strong experience building dApps and deep knowledge of DeFi in order to built an innovative decentralized options protocol.  The person must have strong networking in DeFi\"}"
+      },
+      {
+        "title": "DeFi Analyst",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Poland, Cracow or remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "ICEO - Venture Builder",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "ICEO - Venture Builder DeFi Analyst",
+        "compensation": "$30k - $60k",
+        "tags": [
+          "analyst",
+          "defi",
+          "remote"
+        ],
+        "postDate": "13d",
+        "description": "{\"About the job\":\" \\\"O nas Norion to startup\"}"
+      },
+      {
+        "title": "Flutter Developer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Europe, LATAM, Canada",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Lemon.io",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Lemon.io Flutter Developer",
+        "compensation": "$50k - $100k",
+        "tags": [
+          "dev",
+          "flutter",
+          "android",
+          "api",
+          "dart"
+        ],
+        "postDate": "13d",
+        "description": "{\"About the job\":\" \\\"Get a remote job that you will love with better compensation and career growth. We’re Lemon.io — a marketplace where we match you with hand-picked startups from the US and Europe. Why work with us\"}"
+      },
+      {
+        "title": "Web3 Senior Product Manager - SocialFi",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Popoo",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Popoo Web3 Senior Product Manager - SocialFi",
+        "compensation": "",
+        "tags": [
+          "product manager",
+          "non tech",
+          "senior",
+          "analyst",
+          "blockchain"
+        ],
+        "postDate": "15d",
+        "description": "{\"About the job\":\" \\\"Responsibilities   We are looking for a Senior Product Manager with strong technical skills to be responsible for the product design and roadmap with a proven track record of taking products from ideation to launch and working directly with software development teams to ship software products in an agile development environment. We need someone who is data-driven\"}"
+      },
+      {
+        "title": "Head of Marketing",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Molecule",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Molecule Head of Marketing",
+        "compensation": "",
+        "tags": [
+          "cmo",
+          "executive",
+          "marketing",
+          "non tech",
+          "remote"
+        ],
+        "postDate": "18d",
+        "description": "{\"About the job\":\" \\\"About us\"}"
+      },
+      {
+        "title": "Blockchain Security Engineer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Stacks Foundation",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Stacks Foundation Blockchain Security Engineer",
+        "compensation": "$165k - $200k",
+        "tags": [
+          "dev",
+          "security",
+          "blockchain",
+          "remote"
+        ],
+        "postDate": "18d",
+        "description": "{\"About the job\":\" \\\"The Stacks Foundation is a leader within the Stacks Ecosystem; a collection of independent entities\"}"
+      },
+      {
+        "title": "Blockchain Engineer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Stacks Foundation",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Stacks Foundation Blockchain Engineer",
+        "compensation": "$130k - $175k",
+        "tags": [
+          "dev",
+          "blockchain",
+          "aws",
+          "btc",
+          "crypto"
+        ],
+        "postDate": "19d",
+        "description": "{\"About the job\":\" \\\"The Stacks Foundation is a leader within the Stacks Ecosystem; a collection of independent entities\"}"
+      },
+      {
+        "title": "Community Growth Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Popoo",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Popoo Community Growth Manager",
+        "compensation": "",
+        "tags": [
+          "growth",
+          "community manager",
+          "non tech",
+          "blockchain",
+          "decentralize"
+        ],
+        "postDate": "24d",
+        "description": "{\"About the job\":\" \\\"Responsibilities We are seeking passionate\"}"
+      },
+      {
+        "title": "Growth Hacking Lead",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Popoo",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Popoo Growth Hacking Lead",
+        "compensation": "",
+        "tags": [
+          "growth",
+          "growth hacker",
+          "lead",
+          "analyst",
+          "design"
+        ],
+        "postDate": "24d",
+        "description": "{\"About the job\":\" \\\"RESPONSIBILITIES\"}"
+      },
+      {
+        "title": "Tokenomics Lead",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Popoo",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Popoo Tokenomics Lead",
+        "compensation": "",
+        "tags": [
+          "economy designer",
+          "non tech",
+          "lead",
+          "analyst",
+          "blockchain"
+        ],
+        "postDate": "24d",
+        "description": "{\"About the job\":\" \\\"We are seeking passionate\"}"
+      },
+      {
+        "title": "CMO (Psydonomyus Talents welcomed)",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "DeStore",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "DeStore CMO (Psydonomyus Talents welcomed)",
+        "compensation": "$80k - $150k",
+        "tags": [
+          "cmo",
+          "community manager",
+          "content marketing",
+          "nft",
+          "pr"
+        ],
+        "postDate": "25d",
+        "description": "{\"About the job\":\" \\\"TITLE CMO (Pseudonymous Applications Welcome) [Image] WHO WE ARE DeStore is the platform to run the next generation of retail. Customers are turned into co-owners of the store via NFTs. NFT owners then source\"}"
+      },
+      {
+        "title": "Frontend Engineer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "San Francisco / New York",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Ecosapiens",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Ecosapiens Frontend Engineer",
+        "compensation": "$150k - $250k",
+        "tags": [
+          "dev",
+          "front end",
+          "ethereum",
+          "javascript",
+          "nextjs"
+        ],
+        "postDate": "26d",
+        "description": "{\"About the job\":\" \\\"San Francisco  New York  Full-time At its core\"}"
+      },
+      {
+        "title": "Art Curator Art Director Creator",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "United States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "NFT Text Inc.",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "NFT Text Inc. Art Curator Art Director Creator",
+        "compensation": "$45k - $200k",
+        "tags": [
+          "executive"
+        ],
+        "postDate": "6h",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;Do you have a passion for teaching and writing about digital art and collectibles? Can you talk about your favorite paintings and museums? Are you eager to learn about emerging artists and their stories?&amp;lt;p&amp;gt;&amp;lt;p&amp;gt;We&#39;re looking for an entrepreneurial art curator  creator to help us find what&#39;s next and help bring those stories to life through engaging content on social media platforms.&amp;lt;p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What you will do&amp;lt;strong&amp;gt;&amp;lt;p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;You will work in a small team to identify and source existing and emerging artists for our platform&amp;lt;li&amp;gt;&amp;lt;li&amp;gt;You will work with Company leadership to develop and own a pipeline for artist outreach\"}"
+      },
+      {
+        "title": "Product Designer Contract",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Magic Eden",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Magic Eden Product Designer Contract",
+        "compensation": "",
+        "tags": [
+          "product designer",
+          "design",
+          "non tech",
+          "solana"
+        ],
+        "postDate": "14h",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;span style=&quot;color\"}"
+      },
+      {
+        "title": "Associate Payment Operations",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "United States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Gemini",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Gemini Associate Payment Operations",
+        "compensation": "",
+        "tags": [
+          "operations"
+        ],
+        "postDate": "15h",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;strong&gt;Empower the Individual Through Crypto&lt;strong&gt;&lt;p&gt; &lt;p&gt;Gemini is a crypto exchange and custodian that allows customers to buy\"}"
+      },
+      {
+        "title": "Project Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "CT Stamford US",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Smith Arnold Partners",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Smith Arnold Partners Project Manager",
+        "compensation": "$140k - $175k",
+        "tags": [
+          "project manager",
+          "non tech"
+        ],
+        "postDate": "18h",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;For this and other similar career opportunities\"}"
+      },
+      {
+        "title": "Marketing Specialist",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Cere Network",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Cere Network Marketing Specialist",
+        "compensation": "",
+        "tags": [
+          "marketing",
+          "non tech",
+          "remote",
+          "marketing specialist"
+        ],
+        "postDate": "2mo",
+        "description": "{\"About the job\":\" \\\"About CERE\"}"
+      },
+      {
+        "title": "Product Owner Derivatives",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Asia",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Binance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Binance Product Owner Derivatives",
+        "compensation": "$100k - $200k",
+        "tags": [
+          "product manager",
+          "non tech"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "BNB Ambassador Internship Europe",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Europe",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Binance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Binance BNB Ambassador Internship Europe",
+        "compensation": "$17k - $75k",
+        "tags": [
+          "intern",
+          "entry level"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "FullStack Engineer Discovery",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "San Francisco,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Pagoda",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Pagoda FullStack Engineer Discovery",
+        "compensation": "$90k - $100k",
+        "tags": [
+          "dev",
+          "full stack",
+          "web3js",
+          "react",
+          "ethereum"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;strong&gt;About The Role\"}"
+      },
+      {
+        "title": "Blockchain Evangelist Developer North America BNB Chain",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Canada",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Binance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Binance Blockchain Evangelist Developer North America BNB Chain",
+        "compensation": "$75k - $200k",
+        "tags": [
+          "dev",
+          "react",
+          "solidity",
+          "javascript",
+          "node"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "UI UX Designer earlystage Crypto Startup",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Klink Finance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Klink Finance UI UX Designer earlystage Crypto Startup",
+        "compensation": "$45k - $120k",
+        "tags": [
+          "ui ux designer",
+          "design",
+          "non tech"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;Location\"}"
+      },
+      {
+        "title": "Social Media Manager DeFi",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Minterest Labs",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Minterest Labs Social Media Manager DeFi",
+        "compensation": "$70k - $115k",
+        "tags": [
+          "social media",
+          "non tech"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;The Company&amp;lt;strong&amp;gt;&amp;lt;p&amp;gt; &amp;lt;p&amp;gt;Minterest is a decentralized borrowing and lending platform built on blockchain to provide a fair and equal financial ecosystem for all. It rewards long-term liquidity providers with industry leading yields\"}"
+      },
+      {
+        "title": "Compliance Manager MLRO El Salvador",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Salvador,\nBrazil",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Binance",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Binance Compliance Manager MLRO El Salvador",
+        "compensation": "",
+        "tags": [
+          "compliance"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "Backend Engineer Golang Market Intelligence m f d. Remote",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Europe",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Glassnode",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Glassnode Backend Engineer Golang Market Intelligence m f d. Remote",
+        "compensation": "$38k - $125k",
+        "tags": [
+          "remote",
+          "backend",
+          "dev",
+          "golang",
+          "ethereum"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "Social Media Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "United States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Gameplay Galaxy",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Gameplay Galaxy Social Media Manager",
+        "compensation": "$70k - $115k",
+        "tags": [
+          "social media",
+          "non tech"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;The original creators behind ‘Trial Xtreme’ the blockbuster series with over 250\"}"
+      },
+      {
+        "title": "Director of Communications",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Los Angeles,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Canvy.Labs",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Canvy.Labs Director of Communications",
+        "compensation": "$70k - $200k",
+        "tags": [
+          "executive",
+          "nft"
+        ],
+        "postDate": "1d",
+        "description": "{\"About the job\":\" \\\"Director of Community (Web3)&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Canvy is seeking the next Director of Community for The Canvy Network to manage community member channels on such platforms for community engagement such as Telegram\"}"
+      },
+      {
+        "title": "Senior Site Reliability Engineer Engineering Operations",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Chainlink Labs",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Chainlink Labs Senior Site Reliability Engineer Engineering Operations",
+        "compensation": "$58k - $190k",
+        "tags": [
+          "dev",
+          "operations",
+          "sys admin",
+          "senior",
+          "remote"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;div&gt; &lt;div class=&quot;section page-centered posting-header&quot;&gt; &lt;div class=&quot;posting-headline&quot;&gt; &lt;h2&gt;Senior Site Reliability Engineer\"}"
+      },
+      {
+        "title": "Site Reliability Engineer Engineering Operations",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Remote",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Chainlink Labs",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Chainlink Labs Site Reliability Engineer Engineering Operations",
+        "compensation": "$58k - $160k",
+        "tags": [
+          "dev",
+          "operations",
+          "sys admin",
+          "remote",
+          "node"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;div&gt; &lt;div class=&quot;section page-centered posting-header&quot;&gt; &lt;div class=&quot;posting-headline&quot;&gt; &lt;h2&gt;Site Reliability Engineer\"}"
+      },
+      {
+        "title": "Infrastructure and Technical Support Engineer Asia US time zones Blockchain",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "London,\nUnited Kingdom",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Clearmatics",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Clearmatics Infrastructure and Technical Support Engineer Asia US time zones Blockchain",
+        "compensation": "$70k - $150k",
+        "tags": [
+          "ai",
+          "dev",
+          "customer support",
+          "solidity",
+          "ethereum"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;em&gt;&lt;strong&gt;Infrastructure and Technical Support Engineer- +8  Asia time zones or GMT (UTC) - 8  US time zones\"}"
+      },
+      {
+        "title": "Software Engineer Cloud Infrastructure Mid Level",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Los Angeles,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Genies, Inc.",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Genies, Inc. Software Engineer Cloud Infrastructure Mid Level",
+        "compensation": "$28k - $100k",
+        "tags": [
+          "cloud",
+          "dev",
+          "nft",
+          "golang"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "Business Development Lead Consumer",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Los Angeles,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Aptos",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Aptos Business Development Lead Consumer",
+        "compensation": "$150k - $180k",
+        "tags": [
+          "sales",
+          "non tech",
+          "lead"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;strong&gt;About The Role&lt;strong&gt;&lt;p&gt; &lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "Technical Program Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Protocol Labs",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Protocol Labs Technical Program Manager",
+        "compensation": "",
+        "tags": [
+          "executive"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;h4&gt;&lt;strong&gt;About Protocol Labs&lt;strong&gt;&lt;h4&gt; &lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "HR Administrative Coordinator",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Toronto,\nCanada",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Localcoin",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Localcoin HR Administrative Coordinator",
+        "compensation": "$60k - $180k",
+        "tags": [
+          "hr",
+          "non tech"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;strong&gt;ABOUT LOCALCOIN&lt;strong&gt;&lt;p&gt; &lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "Team Lead FrontEnd Live Hub",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Paris,\nFrance",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Ledger",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Ledger Team Lead FrontEnd Live Hub",
+        "compensation": "$70k - $160k",
+        "tags": [
+          "front end",
+          "lead",
+          "react",
+          "react native"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;div&gt; &lt;div class=&quot;section page-centered posting-header&quot;&gt; &lt;div class=&quot;posting-headline&quot;&gt; &lt;h2&gt;Team Lead Front-End - Live Hub&lt;h2&gt; &lt;div class=&quot;posting-categories&quot;&gt; &lt;div href=&quot;#&quot; class=&quot;sort-by-time posting-category medium-category-label location&quot;&gt;Paris\"}"
+      },
+      {
+        "title": "Product Analyst",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "San Francisco,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Valora Inc",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Valora Inc Product Analyst",
+        "compensation": "",
+        "tags": [
+          "analyst"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "Business Development Representative",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "London,\nUnited Kingdom",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Merkle Science",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Merkle Science Business Development Representative",
+        "compensation": "$37k - $150k",
+        "tags": [
+          "sales",
+          "non tech"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "Data Security Privacy Compliance Manager",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Chicago,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "CoinFlip",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "CoinFlip Data Security Privacy Compliance Manager",
+        "compensation": "$120k - $160k",
+        "tags": [
+          "compliance",
+          "security"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;main-header-content page-centered narrow-section page-full-width&quot;&gt;&lt;a href=&quot;https\"}"
+      },
+      {
+        "title": "Senior Product Marketing Manager Solutions",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "London,\nUnited Kingdom",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Parity Technologies",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Parity Technologies Senior Product Marketing Manager Solutions",
+        "compensation": "$60k - $200k",
+        "tags": [
+          "marketing manager",
+          "product marketing",
+          "marketing",
+          "non tech",
+          "senior"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;span style=&quot;font-weight\"}"
+      },
+      {
+        "title": "Director Project Management",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "Los Angeles,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Impact Theory",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Impact Theory Director Project Management",
+        "compensation": "$155k - $175k",
+        "tags": [
+          "executive",
+          "nft"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"Impact Theory is a freakishly ambitious LA-based Web3 studio\"}"
+      },
+      {
+        "title": "NFT coder",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "United States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Wild eyes NFT",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Wild eyes NFT NFT coder",
+        "compensation": "$70k - $180k",
+        "tags": [
+          "dev",
+          "nft"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"NFT Collection contains 10\"}"
+      },
+      {
+        "title": "Investment Analyst Educational Program",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "New York,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "3x Capital",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "3x Capital Investment Analyst Educational Program",
+        "compensation": "$75k - $133k",
+        "tags": [
+          "analyst",
+          "finance"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&amp;lt;p&amp;gt;Roles &amp;amp;amp; Responsibilities\"}"
+      },
+      {
+        "title": "Data Engineer Discovery",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "San Francisco,\nUnited States",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "NEAR",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "NEAR Data Engineer Discovery",
+        "compensation": "$69k - $200k",
+        "tags": [
+          "data science",
+          "dev",
+          "web3js",
+          "ethereum"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;p&gt;&lt;strong&gt;About The Role\"}"
+      },
+      {
+        "title": "Junior Legal Counsel",
+        "jobType": "",
+        "role": "",
+        "applyLink": "",
+        "location": "London,\nUnited Kingdom",
+        "sticky": false,
+        "highlight": false,
+        "remote": false,
+        "company": {
+          "name": "Nansen.ai",
+          "slug": "",
+          "logo": {}
+        },
+        "slug": "Nansen.ai Junior Legal Counsel",
+        "compensation": "$120k",
+        "tags": [
+          "legal",
+          "junior",
+          "entry level"
+        ],
+        "postDate": "2d",
+        "description": "{\"About the job\":\" \\\"&lt;div class=&quot;p-rich_text_section&quot;&gt;This is an opportunity for a Junior Legal Counsel to join a globally distributed\"}"
+      }
+    ]
   }
 }

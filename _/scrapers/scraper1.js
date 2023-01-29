@@ -19,6 +19,7 @@ const fetchSource = () => {
             waitUntil: 'load',
             timeout: 0
         })
+        await page.waitForSelector('#carouselExampleControls', {timeout: 10000});
         var html = await page.evaluate(() => {
             return document.body.innerHTML
         })
@@ -87,11 +88,12 @@ const fetchSource = () => {
               slug: '',
               logo:{}
             },
+            slug: name[i] +' '+title[i],
             compensation : compensation[i],
             location : location[i],
             tags : tags[i],
             postDate : post_date[i],
-            description : description[i]
+            description : JSON.stringify({'About the job': description[i]})
           })
         }
         
