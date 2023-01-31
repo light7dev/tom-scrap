@@ -83,7 +83,6 @@ const fetchSource = () => {
           })
           const $2 = cheerio.load(html2);
           job.description = JSON.stringify({'About the job': $2('.table-jobs').next().next().next().next().html()});
-          console.log(job)
           entities.jobs.push(job)
         }
         // browser.close()
@@ -95,17 +94,15 @@ const fetchSource = () => {
 });
 };
 
-const processFetch = () => {
-    fetchSource()
+const processFetch = async () => {
+    await fetchSource()
     .then((data) => {
-      console.log(data);
       let resData = {
         name: scrapInfo.name,
         website: scrapInfo.website,
         entities: data,
       };
       fs.writeFile('./results/2.json', JSON.stringify(resData, null, 2), 'utf8', () => {
-        console.log('Saved json file')
       });
     })
     .catch();

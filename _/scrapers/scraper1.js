@@ -105,8 +105,8 @@ const fetchSource = () => {
 });
 };
 
-const processFetch = () => {
-    fetchSource()
+const processFetch = async () => {
+    await fetchSource()
     .then((data) => {
       let resData = {
         type: 'Scrape',
@@ -117,7 +117,6 @@ const processFetch = () => {
         }
       };
       fs.writeFile('./results/1.json', JSON.stringify(resData, null, 2), 'utf8', () => {
-        console.log('Saved json file')
       });
     })
     .catch();

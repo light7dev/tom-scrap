@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import axios from 'axios';
-
+import slugify from "slugify";
 axios.defaults.headers.common['Authorization'] = 'ae41e4d7118480f9fd19cf3c9af53781bb59256ed6356c05';
 
 const scrapInfo = {
@@ -9,14 +9,28 @@ const scrapInfo = {
     name: `POST`,
   };
 
-const postSource = () => {
+let slugs = {};
+
+export const postSource = () => {
     return new Promise( async (resolve,reject) => {
+        let data = '';
+        try{
+            let data = fs.readFileSync('./ref/slugs.json');
+            if(data){
+                slugs= JSON.parse(data)
+            }       
+        }catch(err){
+            console.log(slugs)
+        }
+
+        for(let i=1;i<6;i++)
+            if(!slugs[`${i}`])slugs[`${i}`]=[];
     try {
-        for(let i=1;i<=5;i++){
-
-
+        for(let i=1;i<6;i++){
             let items = JSON.parse(fs.readFileSync('./results/'+i+'.json', 'utf-8')).entities.jobs;
             for(let j=0;j<items.length;j++){
+                items[j].slug=slugify(items[j].slug)
+                if(items[j].slug == slugs[`${i}`][`${j}`]) continue;
                 try{
                     //Check company list
                     const checkedCompany = await axios.post(scrapInfo.website, {
@@ -29,7 +43,6 @@ const postSource = () => {
                                 logo
                                 email
                                 website
-                                
                               }
                             }
                           }
@@ -148,12 +161,16 @@ const postSource = () => {
                             id:job.id
                         }
                     }).then(res=>res.data.data?.publishJob?.data)
+                    //Slugs
+                    slugs[`${i}`][`${j}`]=items[j].slug;
                     console.log('Published job: ', pjr.id)
                 }catch(err){
                     console.log(err)
                     break;
                 }
             }
+            //Store slugs
+            fs.writeFileSync('./ref/slugs.json', JSON.stringify(slugs))
         }
         resolve()
     } catch (error) {
@@ -162,9 +179,4 @@ const postSource = () => {
     }
 });
 };
-
 postSource()
-.then(()=>{
-
-})
-.catch();

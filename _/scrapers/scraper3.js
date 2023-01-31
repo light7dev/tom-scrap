@@ -52,8 +52,6 @@ const fetchSource = () => {
         const $ = cheerio.load(html);
 
         let trs = $('.wp-jobsearch-dev-job-content li.jobsearch-column-12')
-        console.log(trs.length)
-
         for(let i=0;i<trs.length;i++){
           let job = {}
           job.company = {};
@@ -71,20 +69,25 @@ const fetchSource = () => {
           job.logo = {};
           // let link = $(trs[i]).find('.job-company-name a').eq(0).attr('href');
           job.tags = $(trs[i]).find('.jobsearch-filter-tool-black-shape').eq(0).parent().text().trim().split(',').map(t=>t.trim());
-          job.applyLink = $(trs[i]).find('a.applynowbtn').eq(0).attr('href');
-          await page.goto(job.applyLink,{
-            waitUntil: 'load',
-            timeout: 0
-          })
-          const html2 =  await page.evaluate(async () => {
-            return document.body.innerHTML;  
-          })
-          const $2 = cheerio.load(html2);
-          job.description = JSON.stringify({'About the job': $2('.jobsearch-description').eq(0).html()});
+          if(i==0)
+          {job.applyLink='';
+          job.description='';}
+          else
+          {
+            job.applyLink = $(trs[i]).find('a.applynowbtn').eq(0).attr('href');
+            await page.goto(job.applyLink,{
+              waitUntil: 'load',
+              timeout: 0
+            })
+            const html2 =  await page.evaluate(async () => {
+              return document.body.innerHTML;  
+            })
+            const $2 = cheerio.load(html2);
+            job.description = JSON.stringify({'About the job': $2('.jobsearch-description').eq(0).html()});
+          }
           job.remote = $(trs[i]).find('a.applynowbtn').eq(1).text() == 'Remote'
           job.slug = job.company.name+' '+job.title;
           entities.jobs.push(job)
-          console.log(job)
         }
         // browser.close()
         resolve(entities)
@@ -95,8 +98,8 @@ const fetchSource = () => {
 });
 };
 
-const processFetch = () => {
-    fetchSource()
+const processFetch = async () => {
+   await fetchSource()
     .then((data) => {
       let resData = {
         name: scrapInfo.name,
@@ -104,7 +107,6 @@ const processFetch = () => {
         entities: data,
       };
       fs.writeFile('./results/3.json', JSON.stringify(resData, null, 2), 'utf8', () => {
-        console.log('Saved json file')
       });
     })
     .catch();

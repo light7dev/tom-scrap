@@ -91,7 +91,6 @@ const fetchSource = () => {
 
             job.tags = $(trs[j]).find('.row .col-md-8 > div').eq(1).text().trim().split('\n').map(i=>i.trim());
             entities.jobs.push(job)
-            console.log(job)
           }
         }
         // browser.close()
@@ -103,8 +102,8 @@ const fetchSource = () => {
 });
 };
 
-const processFetch = () => {
-    fetchSource()
+const processFetch = async () => {
+    await fetchSource()
     .then((data) => {
       let resData = {
         name: scrapInfo.name,
@@ -112,7 +111,6 @@ const processFetch = () => {
         entities: data,
       };
       fs.writeFile('./results/4.json', JSON.stringify(resData, null, 2), 'utf8', () => {
-        console.log('Saved json file')
       });
     })
     .catch();
